@@ -1,0 +1,6712 @@
+{
+  "suffix_rules": {
+    "after_stem_ku3": {
+      "babbar": {
+        "count": 20,
+        "total": 81,
+        "frequency": 0.24691358024691357
+      },
+      "bi": {
+        "count": 47,
+        "total": 81,
+        "frequency": 0.5802469135802469
+      }
+    },
+    "after_stem_min": {
+      "esz3": {
+        "count": 6,
+        "total": 9,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "after_stem_5(disz)": {
+      "kam": {
+        "count": 10,
+        "total": 14,
+        "frequency": 0.7142857142857143
+      },
+      "sze3": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "after_stem_lugal": {
+      "ta": {
+        "count": 11,
+        "total": 161,
+        "frequency": 0.06832298136645963
+      },
+      "e": {
+        "count": 33,
+        "total": 161,
+        "frequency": 0.20496894409937888
+      }
+    },
+    "after_stem_in": {
+      "a": {
+        "count": 10,
+        "total": 27,
+        "frequency": 0.37037037037037035
+      },
+      "ta": {
+        "count": 4,
+        "total": 27,
+        "frequency": 0.14814814814814814
+      }
+    },
+    "after_stem_bi2": {
+      "ga": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      }
+    },
+    "after_stem_nu": {
+      "banda3": {
+        "count": 13,
+        "total": 46,
+        "frequency": 0.2826086956521739
+      },
+      "li2": {
+        "count": 4,
+        "total": 46,
+        "frequency": 0.08695652173913043
+      },
+      "gu4": {
+        "count": 7,
+        "total": 46,
+        "frequency": 0.15217391304347827
+      },
+      "tuku": {
+        "count": 5,
+        "total": 46,
+        "frequency": 0.10869565217391304
+      }
+    },
+    "after_stem_i3": {
+      "dab5": {
+        "count": 40,
+        "total": 127,
+        "frequency": 0.31496062992125984
+      },
+      "nun": {
+        "count": 7,
+        "total": 127,
+        "frequency": 0.05511811023622047
+      },
+      "gal2": {
+        "count": 28,
+        "total": 127,
+        "frequency": 0.2204724409448819
+      },
+      "gesz": {
+        "count": 13,
+        "total": 127,
+        "frequency": 0.10236220472440945
+      }
+    },
+    "after_stem_a": {
+      "ra2": {
+        "count": 37,
+        "total": 215,
+        "frequency": 0.17209302325581396
+      },
+      "sza3": {
+        "count": 37,
+        "total": 215,
+        "frequency": 0.17209302325581396
+      },
+      "la": {
+        "count": 24,
+        "total": 215,
+        "frequency": 0.11162790697674418
+      },
+      "ta": {
+        "count": 26,
+        "total": 215,
+        "frequency": 0.12093023255813953
+      },
+      "lum": {
+        "count": 28,
+        "total": 215,
+        "frequency": 0.13023255813953488
+      }
+    },
+    "after_stem_ab": {
+      "na": {
+        "count": 6,
+        "total": 31,
+        "frequency": 0.1935483870967742
+      },
+      "ta": {
+        "count": 17,
+        "total": 31,
+        "frequency": 0.5483870967741935
+      }
+    },
+    "after_stem_{d}i": {
+      "{d}suen": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_dub": {
+      "sar": {
+        "count": 61,
+        "total": 67,
+        "frequency": 0.9104477611940298
+      }
+    },
+    "after_stem_ur": {
+      "ta": {
+        "count": 31,
+        "total": 265,
+        "frequency": 0.1169811320754717
+      },
+      "nigar{gar}": {
+        "count": 16,
+        "total": 265,
+        "frequency": 0.06037735849056604
+      }
+    },
+    "after_stem_nam": {
+      "ni": {
+        "count": 4,
+        "total": 14,
+        "frequency": 0.2857142857142857
+      }
+    },
+    "after_stem_{d}gu": {
+      "la": {
+        "count": 4,
+        "total": 7,
+        "frequency": 0.5714285714285714
+      },
+      "za": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "after_stem_mu": {
+      "kux(DU)": {
+        "count": 22,
+        "total": 66,
+        "frequency": 0.3333333333333333
+      },
+      "du3": {
+        "count": 12,
+        "total": 66,
+        "frequency": 0.18181818181818182
+      },
+      "hul": {
+        "count": 16,
+        "total": 66,
+        "frequency": 0.24242424242424243
+      }
+    },
+    "after_stem_sze": {
+      "la": {
+        "count": 6,
+        "total": 80,
+        "frequency": 0.075
+      },
+      "ku5": {
+        "count": 16,
+        "total": 80,
+        "frequency": 0.2
+      },
+      "ta": {
+        "count": 6,
+        "total": 80,
+        "frequency": 0.075
+      },
+      "ba": {
+        "count": 22,
+        "total": 80,
+        "frequency": 0.275
+      },
+      "sze3": {
+        "count": 7,
+        "total": 80,
+        "frequency": 0.0875
+      },
+      "bi": {
+        "count": 13,
+        "total": 80,
+        "frequency": 0.1625
+      }
+    },
+    "after_stem_igi": {
+      "sag": {
+        "count": 3,
+        "total": 27,
+        "frequency": 0.1111111111111111
+      },
+      "gal2": {
+        "count": 12,
+        "total": 27,
+        "frequency": 0.4444444444444444
+      }
+    },
+    "after_stem_lu2": {
+      "ta": {
+        "count": 24,
+        "total": 163,
+        "frequency": 0.147239263803681
+      },
+      "la": {
+        "count": 16,
+        "total": 163,
+        "frequency": 0.09815950920245399
+      },
+      "ra": {
+        "count": 14,
+        "total": 163,
+        "frequency": 0.08588957055214724
+      },
+      "{d}szara2": {
+        "count": 13,
+        "total": 163,
+        "frequency": 0.07975460122699386
+      }
+    },
+    "after_stem_su": {
+      "dam": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      },
+      "ga": {
+        "count": 6,
+        "total": 12,
+        "frequency": 0.5
+      }
+    },
+    "after_stem_ba": {
+      "hun": {
+        "count": 41,
+        "total": 304,
+        "frequency": 0.13486842105263158
+      },
+      "du3": {
+        "count": 27,
+        "total": 304,
+        "frequency": 0.08881578947368421
+      },
+      "hul": {
+        "count": 81,
+        "total": 304,
+        "frequency": 0.26644736842105265
+      },
+      "usz2": {
+        "count": 24,
+        "total": 304,
+        "frequency": 0.07894736842105263
+      },
+      "ti": {
+        "count": 47,
+        "total": 304,
+        "frequency": 0.15460526315789475
+      }
+    },
+    "after_stem_en": {
+      "nu": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      },
+      "gal": {
+        "count": 11,
+        "total": 30,
+        "frequency": 0.36666666666666664
+      },
+      "na": {
+        "count": 7,
+        "total": 30,
+        "frequency": 0.23333333333333334
+      }
+    },
+    "after_stem_szu": {
+      "numun": {
+        "count": 4,
+        "total": 62,
+        "frequency": 0.06451612903225806
+      },
+      "ma": {
+        "count": 6,
+        "total": 62,
+        "frequency": 0.0967741935483871
+      },
+      "ta": {
+        "count": 7,
+        "total": 62,
+        "frequency": 0.11290322580645161
+      },
+      "gid2": {
+        "count": 5,
+        "total": 62,
+        "frequency": 0.08064516129032258
+      },
+      "sza": {
+        "count": 5,
+        "total": 62,
+        "frequency": 0.08064516129032258
+      }
+    },
+    "after_stem_gu3": {
+      "a": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_mar": {
+      "tu": {
+        "count": 14,
+        "total": 18,
+        "frequency": 0.7777777777777778
+      }
+    },
+    "after_stem_x": {
+      "...": {
+        "count": 3,
+        "total": 27,
+        "frequency": 0.1111111111111111
+      },
+      "x": {
+        "count": 6,
+        "total": 27,
+        "frequency": 0.2222222222222222
+      },
+      "kam": {
+        "count": 4,
+        "total": 27,
+        "frequency": 0.14814814814814814
+      }
+    },
+    "after_stem_puzur4": {
+      "gan": {
+        "count": 5,
+        "total": 17,
+        "frequency": 0.29411764705882354
+      },
+      "dar": {
+        "count": 3,
+        "total": 17,
+        "frequency": 0.17647058823529413
+      }
+    },
+    "after_stem_u2": {
+      "li": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "after_stem_ra2": {
+      "gaba": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "after_stem_7(disz)": {
+      "kam": {
+        "count": 7,
+        "total": 8,
+        "frequency": 0.875
+      }
+    },
+    "after_stem_gu": {
+      "du": {
+        "count": 3,
+        "total": 18,
+        "frequency": 0.16666666666666666
+      },
+      "za": {
+        "count": 3,
+        "total": 18,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "after_stem_masz": {
+      "e": {
+        "count": 4,
+        "total": 24,
+        "frequency": 0.16666666666666666
+      },
+      "ta": {
+        "count": 4,
+        "total": 24,
+        "frequency": 0.16666666666666666
+      },
+      "da3": {
+        "count": 4,
+        "total": 24,
+        "frequency": 0.16666666666666666
+      },
+      "gu7": {
+        "count": 3,
+        "total": 24,
+        "frequency": 0.125
+      }
+    },
+    "after_stem_bar": {
+      "gal2": {
+        "count": 19,
+        "total": 41,
+        "frequency": 0.4634146341463415
+      },
+      "ga": {
+        "count": 15,
+        "total": 41,
+        "frequency": 0.36585365853658536
+      },
+      "su": {
+        "count": 4,
+        "total": 41,
+        "frequency": 0.0975609756097561
+      }
+    },
+    "after_stem_ga": {
+      "ar3": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      },
+      "me": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "after_stem_ma": {
+      "na": {
+        "count": 47,
+        "total": 75,
+        "frequency": 0.6266666666666667
+      },
+      "da": {
+        "count": 20,
+        "total": 75,
+        "frequency": 0.26666666666666666
+      }
+    },
+    "after_stem_siki": {
+      "gi": {
+        "count": 4,
+        "total": 13,
+        "frequency": 0.3076923076923077
+      },
+      "bi": {
+        "count": 3,
+        "total": 13,
+        "frequency": 0.23076923076923078
+      },
+      "ra": {
+        "count": 3,
+        "total": 13,
+        "frequency": 0.23076923076923078
+      }
+    },
+    "after_stem_nig2": {
+      "ka9": {
+        "count": 4,
+        "total": 68,
+        "frequency": 0.058823529411764705
+      },
+      "ak": {
+        "count": 14,
+        "total": 68,
+        "frequency": 0.20588235294117646
+      },
+      "dab5": {
+        "count": 13,
+        "total": 68,
+        "frequency": 0.19117647058823528
+      },
+      "ra": {
+        "count": 5,
+        "total": 68,
+        "frequency": 0.07352941176470588
+      },
+      "gur11": {
+        "count": 5,
+        "total": 68,
+        "frequency": 0.07352941176470588
+      }
+    },
+    "after_stem_sza": {
+      "ru{ki}": {
+        "count": 9,
+        "total": 17,
+        "frequency": 0.5294117647058824
+      },
+      "um{ki}": {
+        "count": 7,
+        "total": 17,
+        "frequency": 0.4117647058823529
+      }
+    },
+    "after_stem_2(disz)": {
+      "kam": {
+        "count": 35,
+        "total": 41,
+        "frequency": 0.8536585365853658
+      },
+      "am3": {
+        "count": 5,
+        "total": 41,
+        "frequency": 0.12195121951219512
+      }
+    },
+    "after_stem_an": {
+      "ta": {
+        "count": 3,
+        "total": 33,
+        "frequency": 0.09090909090909091
+      },
+      "an{ki}": {
+        "count": 10,
+        "total": 33,
+        "frequency": 0.30303030303030304
+      },
+      "da": {
+        "count": 14,
+        "total": 33,
+        "frequency": 0.42424242424242425
+      }
+    },
+    "after_stem_pa4": {
+      "e": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_6(disz)": {
+      "kam": {
+        "count": 7,
+        "total": 8,
+        "frequency": 0.875
+      }
+    },
+    "after_stem_ki": {
+      "masz{ki}": {
+        "count": 20,
+        "total": 73,
+        "frequency": 0.273972602739726
+      },
+      "bi": {
+        "count": 19,
+        "total": 73,
+        "frequency": 0.2602739726027397
+      },
+      "gi": {
+        "count": 6,
+        "total": 73,
+        "frequency": 0.0821917808219178
+      },
+      "uri": {
+        "count": 6,
+        "total": 73,
+        "frequency": 0.0821917808219178
+      }
+    },
+    "after_stem_{d}amar": {
+      "{d}suen": {
+        "count": 17,
+        "total": 17,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_{d}szul": {
+      "gi": {
+        "count": 8,
+        "total": 26,
+        "frequency": 0.3076923076923077
+      },
+      "da": {
+        "count": 3,
+        "total": 26,
+        "frequency": 0.11538461538461539
+      },
+      "mu": {
+        "count": 7,
+        "total": 26,
+        "frequency": 0.2692307692307692
+      }
+    },
+    "after_stem_be": {
+      "du10": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "after_stem_ezem": {
+      "gal2": {
+        "count": 9,
+        "total": 44,
+        "frequency": 0.20454545454545456
+      },
+      "gi": {
+        "count": 13,
+        "total": 44,
+        "frequency": 0.29545454545454547
+      },
+      "zu": {
+        "count": 3,
+        "total": 44,
+        "frequency": 0.06818181818181818
+      },
+      "na": {
+        "count": 8,
+        "total": 44,
+        "frequency": 0.18181818181818182
+      },
+      "ba6": {
+        "count": 3,
+        "total": 44,
+        "frequency": 0.06818181818181818
+      },
+      "mah": {
+        "count": 3,
+        "total": 44,
+        "frequency": 0.06818181818181818
+      }
+    },
+    "after_stem_us2": {
+      "sa": {
+        "count": 44,
+        "total": 51,
+        "frequency": 0.8627450980392157
+      },
+      "bi": {
+        "count": 4,
+        "total": 51,
+        "frequency": 0.0784313725490196
+      }
+    },
+    "after_stem_e2": {
+      "sze3": {
+        "count": 5,
+        "total": 80,
+        "frequency": 0.0625
+      },
+      "tum": {
+        "count": 15,
+        "total": 80,
+        "frequency": 0.1875
+      },
+      "6(disz)": {
+        "count": 5,
+        "total": 80,
+        "frequency": 0.0625
+      },
+      "duru5": {
+        "count": 4,
+        "total": 80,
+        "frequency": 0.05
+      },
+      "gal": {
+        "count": 4,
+        "total": 80,
+        "frequency": 0.05
+      },
+      "ta": {
+        "count": 9,
+        "total": 80,
+        "frequency": 0.1125
+      },
+      "e": {
+        "count": 5,
+        "total": 80,
+        "frequency": 0.0625
+      }
+    },
+    "after_stem_gir2": {
+      "su{ki}": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "after_stem_e": {
+      "ta": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "after_stem_kar": {
+      "da": {
+        "count": 10,
+        "total": 11,
+        "frequency": 0.9090909090909091
+      }
+    },
+    "after_stem_im": {
+      "a": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      },
+      "babbar2": {
+        "count": 8,
+        "total": 14,
+        "frequency": 0.5714285714285714
+      }
+    },
+    "after_stem_{d}nin": {
+      "da": {
+        "count": 5,
+        "total": 40,
+        "frequency": 0.125
+      },
+      "...": {
+        "count": 3,
+        "total": 40,
+        "frequency": 0.075
+      },
+      "gal": {
+        "count": 5,
+        "total": 40,
+        "frequency": 0.125
+      },
+      "ra": {
+        "count": 9,
+        "total": 40,
+        "frequency": 0.225
+      }
+    },
+    "after_stem_du11": {
+      "ga": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "after_stem_gesz": {
+      "du3": {
+        "count": 3,
+        "total": 23,
+        "frequency": 0.13043478260869565
+      },
+      "i3": {
+        "count": 6,
+        "total": 23,
+        "frequency": 0.2608695652173913
+      },
+      "bi": {
+        "count": 3,
+        "total": 23,
+        "frequency": 0.13043478260869565
+      },
+      "ti": {
+        "count": 4,
+        "total": 23,
+        "frequency": 0.17391304347826086
+      }
+    },
+    "after_stem_{d}en": {
+      "la2": {
+        "count": 15,
+        "total": 44,
+        "frequency": 0.3409090909090909
+      },
+      "ki": {
+        "count": 11,
+        "total": 44,
+        "frequency": 0.25
+      },
+      "lil2": {
+        "count": 10,
+        "total": 44,
+        "frequency": 0.22727272727272727
+      },
+      "ka": {
+        "count": 3,
+        "total": 44,
+        "frequency": 0.06818181818181818
+      }
+    },
+    "after_stem_bala": {
+      "a": {
+        "count": 14,
+        "total": 16,
+        "frequency": 0.875
+      }
+    },
+    "after_stem_1(disz)": {
+      "sze3": {
+        "count": 14,
+        "total": 36,
+        "frequency": 0.3888888888888889
+      },
+      "kam": {
+        "count": 21,
+        "total": 36,
+        "frequency": 0.5833333333333334
+      }
+    },
+    "after_stem_giri3": {
+      "ga": {
+        "count": 10,
+        "total": 17,
+        "frequency": 0.5882352941176471
+      }
+    },
+    "after_stem_{d}dumu": {
+      "zi": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_ha": {
+      "szi{ki}": {
+        "count": 7,
+        "total": 15,
+        "frequency": 0.4666666666666667
+      }
+    },
+    "after_stem_du10": {
+      "ga": {
+        "count": 6,
+        "total": 9,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "after_stem_zi3": {
+      "gu": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "after_stem_inim": {
+      "{d}szara2": {
+        "count": 6,
+        "total": 12,
+        "frequency": 0.5
+      }
+    },
+    "after_stem_{d}li9": {
+      "si4": {
+        "count": 7,
+        "total": 8,
+        "frequency": 0.875
+      }
+    },
+    "after_stem_...": {
+      "ta": {
+        "count": 3,
+        "total": 21,
+        "frequency": 0.14285714285714285
+      },
+      "x": {
+        "count": 4,
+        "total": 21,
+        "frequency": 0.19047619047619047
+      }
+    },
+    "after_stem_ARAD2": {
+      "mu": {
+        "count": 9,
+        "total": 38,
+        "frequency": 0.23684210526315788
+      },
+      "zu": {
+        "count": 20,
+        "total": 38,
+        "frequency": 0.5263157894736842
+      },
+      "{d}nanna": {
+        "count": 3,
+        "total": 38,
+        "frequency": 0.07894736842105263
+      }
+    },
+    "after_stem_udu": {
+      "...": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "after_stem_pisan": {
+      "ba": {
+        "count": 34,
+        "total": 34,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_gu4": {
+      "mu2": {
+        "count": 3,
+        "total": 23,
+        "frequency": 0.13043478260869565
+      },
+      "sa": {
+        "count": 14,
+        "total": 23,
+        "frequency": 0.6086956521739131
+      },
+      "gesz": {
+        "count": 4,
+        "total": 23,
+        "frequency": 0.17391304347826086
+      }
+    },
+    "after_stem_da": {
+      "ta": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      },
+      "ga": {
+        "count": 6,
+        "total": 30,
+        "frequency": 0.2
+      },
+      "gi": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      },
+      "da": {
+        "count": 8,
+        "total": 30,
+        "frequency": 0.26666666666666666
+      },
+      "a": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      }
+    },
+    "after_stem_la2": {
+      "ia3": {
+        "count": 15,
+        "total": 20,
+        "frequency": 0.75
+      }
+    },
+    "after_stem_si": {
+      "um{ki}": {
+        "count": 14,
+        "total": 44,
+        "frequency": 0.3181818181818182
+      },
+      "ga": {
+        "count": 6,
+        "total": 44,
+        "frequency": 0.13636363636363635
+      },
+      "num2{ki}": {
+        "count": 8,
+        "total": 44,
+        "frequency": 0.18181818181818182
+      },
+      "tum": {
+        "count": 5,
+        "total": 44,
+        "frequency": 0.11363636363636363
+      },
+      "e3": {
+        "count": 8,
+        "total": 44,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "after_stem_szesz": {
+      "la": {
+        "count": 13,
+        "total": 17,
+        "frequency": 0.7647058823529411
+      }
+    },
+    "after_stem_na": {
+      "ta": {
+        "count": 10,
+        "total": 47,
+        "frequency": 0.2127659574468085
+      },
+      "sa2": {
+        "count": 3,
+        "total": 47,
+        "frequency": 0.06382978723404255
+      },
+      "silim": {
+        "count": 3,
+        "total": 47,
+        "frequency": 0.06382978723404255
+      },
+      "sa6": {
+        "count": 9,
+        "total": 47,
+        "frequency": 0.19148936170212766
+      },
+      "mah": {
+        "count": 8,
+        "total": 47,
+        "frequency": 0.1702127659574468
+      },
+      "a": {
+        "count": 4,
+        "total": 47,
+        "frequency": 0.0851063829787234
+      }
+    },
+    "after_stem_ugu2": {
+      "a": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "after_stem_hu": {
+      "ti{ki}": {
+        "count": 5,
+        "total": 19,
+        "frequency": 0.2631578947368421
+      },
+      "ri{ki}": {
+        "count": 6,
+        "total": 19,
+        "frequency": 0.3157894736842105
+      }
+    },
+    "after_stem_a2": {
+      "ti": {
+        "count": 12,
+        "total": 42,
+        "frequency": 0.2857142857142857
+      },
+      "a": {
+        "count": 5,
+        "total": 42,
+        "frequency": 0.11904761904761904
+      },
+      "bi": {
+        "count": 20,
+        "total": 42,
+        "frequency": 0.47619047619047616
+      }
+    },
+    "after_stem_gen": {
+      "na": {
+        "count": 13,
+        "total": 14,
+        "frequency": 0.9285714285714286
+      }
+    },
+    "after_stem_gid2": {
+      "da": {
+        "count": 8,
+        "total": 11,
+        "frequency": 0.7272727272727273
+      },
+      "bi": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      }
+    },
+    "after_stem_masz2": {
+      "gal": {
+        "count": 28,
+        "total": 33,
+        "frequency": 0.8484848484848485
+      }
+    },
+    "after_stem_3(disz)": {
+      "kam": {
+        "count": 19,
+        "total": 27,
+        "frequency": 0.7037037037037037
+      },
+      "sze3": {
+        "count": 4,
+        "total": 27,
+        "frequency": 0.14814814814814814
+      }
+    },
+    "after_stem_u5": {
+      "gu7": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_ma2": {
+      "lah5": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      }
+    },
+    "after_stem_gub": {
+      "ba": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_ensi2": {
+      "ka": {
+        "count": 11,
+        "total": 14,
+        "frequency": 0.7857142857142857
+      }
+    },
+    "after_stem_kal": {
+      "ga": {
+        "count": 21,
+        "total": 23,
+        "frequency": 0.9130434782608695
+      }
+    },
+    "after_stem_uri5{ki}": {
+      "ma": {
+        "count": 29,
+        "total": 46,
+        "frequency": 0.6304347826086957
+      },
+      "ke4": {
+        "count": 14,
+        "total": 46,
+        "frequency": 0.30434782608695654
+      },
+      "sze3": {
+        "count": 3,
+        "total": 46,
+        "frequency": 0.06521739130434782
+      }
+    },
+    "after_stem_limmu2": {
+      "ba": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_sig4": {
+      "gar": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "after_stem_kab2": {
+      "ku5": {
+        "count": 12,
+        "total": 12,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_i7": {
+      "e3": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "after_stem_la": {
+      "mu": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "after_stem_kin": {
+      "a": {
+        "count": 7,
+        "total": 9,
+        "frequency": 0.7777777777777778
+      }
+    },
+    "after_stem_ad": {
+      "da": {
+        "count": 4,
+        "total": 12,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "after_stem_gaba": {
+      "ta": {
+        "count": 8,
+        "total": 15,
+        "frequency": 0.5333333333333333
+      },
+      "ri": {
+        "count": 5,
+        "total": 15,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "after_stem_sza3": {
+      "gal": {
+        "count": 10,
+        "total": 35,
+        "frequency": 0.2857142857142857
+      },
+      "ta": {
+        "count": 9,
+        "total": 35,
+        "frequency": 0.2571428571428571
+      }
+    },
+    "after_stem_u": {
+      "bar": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "after_stem_ka": {
+      "sa2": {
+        "count": 3,
+        "total": 15,
+        "frequency": 0.2
+      }
+    },
+    "after_stem_8(disz)": {
+      "kam": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_{d}szu": {
+      "{d}suen": {
+        "count": 40,
+        "total": 41,
+        "frequency": 0.975609756097561
+      }
+    },
+    "after_stem_4(disz)": {
+      "kam": {
+        "count": 17,
+        "total": 18,
+        "frequency": 0.9444444444444444
+      }
+    },
+    "after_stem_zi": {
+      "ga": {
+        "count": 41,
+        "total": 51,
+        "frequency": 0.803921568627451
+      },
+      "am3": {
+        "count": 8,
+        "total": 51,
+        "frequency": 0.1568627450980392
+      }
+    },
+    "after_stem_e3": {
+      "a": {
+        "count": 6,
+        "total": 7,
+        "frequency": 0.8571428571428571
+      }
+    },
+    "after_stem_{d}na": {
+      "a": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_u4": {
+      "sakar": {
+        "count": 6,
+        "total": 12,
+        "frequency": 0.5
+      }
+    },
+    "after_stem_sa2": {
+      "du11": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_sag": {
+      "ra": {
+        "count": 4,
+        "total": 13,
+        "frequency": 0.3076923076923077
+      }
+    },
+    "after_stem_hi": {
+      "a": {
+        "count": 9,
+        "total": 10,
+        "frequency": 0.9
+      }
+    },
+    "after_stem_{munus}asz2": {
+      "gar3": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_usz": {
+      "bar": {
+        "count": 5,
+        "total": 10,
+        "frequency": 0.5
+      }
+    },
+    "after_stem_za": {
+      "li{ki}": {
+        "count": 10,
+        "total": 13,
+        "frequency": 0.7692307692307693
+      }
+    },
+    "after_stem_dingir": {
+      "ta": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "after_stem_du": {
+      "ni": {
+        "count": 3,
+        "total": 8,
+        "frequency": 0.375
+      }
+    },
+    "after_stem_{d}szara2": {
+      "kam": {
+        "count": 4,
+        "total": 13,
+        "frequency": 0.3076923076923077
+      }
+    },
+    "after_stem_dam": {
+      "gar3": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "after_stem_id": {
+      "gur2": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "after_stem_ur5": {
+      "ra": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "after_stem_nin": {
+      "zi": {
+        "count": 5,
+        "total": 33,
+        "frequency": 0.15151515151515152
+      },
+      "zu": {
+        "count": 6,
+        "total": 33,
+        "frequency": 0.18181818181818182
+      },
+      "sa6": {
+        "count": 3,
+        "total": 33,
+        "frequency": 0.09090909090909091
+      },
+      "e": {
+        "count": 4,
+        "total": 33,
+        "frequency": 0.12121212121212122
+      }
+    },
+    "after_stem_kiszib3": {
+      "bi": {
+        "count": 6,
+        "total": 9,
+        "frequency": 0.6666666666666666
+      },
+      "ba": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "after_stem_sahar": {
+      "ba": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "after_stem_ses": {
+      "gu7": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_hun": {
+      "ga2": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "after_stem_gur": {
+      "ta": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "after_stem_he2": {
+      "dab5": {
+        "count": 4,
+        "total": 7,
+        "frequency": 0.5714285714285714
+      }
+    },
+    "after_stem_dumu": {
+      "ni": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      },
+      "munus": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "after_stem_gu2": {
+      "na": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "after_sequence_lugal_he2": {
+      "gal2": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_{d}i_bi2": {
+      "{d}suen": {
+        "count": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_sze_sag11": {
+      "ku5": {
+        "count": 15,
+        "total": 15,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_gu3_de2": {
+      "a": {
+        "count": 11,
+        "total": 11,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_{d}ba": {
+      "ba6": {
+        "count": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_bar_su": {
+      "ga": {
+        "count": 15,
+        "total": 15,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_e11": {
+      "e": {
+        "count": 11,
+        "total": 11,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_sza_asz": {
+      "ru{ki}": {
+        "count": 8,
+        "total": 8,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lu2_kal": {
+      "la": {
+        "count": 14,
+        "total": 14,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_pa4_u2": {
+      "e": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_en_unu6": {
+      "gal": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ezem_me_ki": {
+      "gal2": {
+        "count": 8,
+        "total": 8,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_an_sza": {
+      "an{ki}": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ba_ab": {
+      "du8": {
+        "count": 11,
+        "total": 12,
+        "accuracy": 0.9166666666666666
+      }
+    },
+    "after_sequence_kar_zi": {
+      "da": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_a_kal": {
+      "la": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ha_ar": {
+      "szi{ki}": {
+        "count": 7,
+        "total": 8,
+        "accuracy": 0.875
+      }
+    },
+    "after_sequence_pisan_dub": {
+      "ba": {
+        "count": 34,
+        "total": 34,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_nig2_ka9": {
+      "ak": {
+        "count": 14,
+        "total": 14,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_bi2": {
+      "lum{ki}": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_igi_4(disz)": {
+      "gal2": {
+        "count": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_{d}dumu_zi": {
+      "da": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_si_mu_ru": {
+      "um{ki}": {
+        "count": 13,
+        "total": 14,
+        "accuracy": 0.9285714285714286
+      }
+    },
+    "after_sequence_lugal_e2_mah": {
+      "e": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ezem_{d}szul": {
+      "gi": {
+        "count": 13,
+        "total": 13,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_szesz_kal": {
+      "la": {
+        "count": 13,
+        "total": 13,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_a_a_kal": {
+      "la": {
+        "count": 13,
+        "total": 13,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_a2_ki": {
+      "ti": {
+        "count": 11,
+        "total": 11,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_{d}en_lil2": {
+      "la2": {
+        "count": 15,
+        "total": 17,
+        "accuracy": 0.8823529411764706
+      }
+    },
+    "after_sequence_u5_bi2": {
+      "gu7": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lu2_dingir": {
+      "ra": {
+        "count": 13,
+        "total": 13,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lu2_du10": {
+      "ga": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_an_ub": {
+      "da": {
+        "count": 14,
+        "total": 14,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_{d}li9": {
+      "si4": {
+        "count": 9,
+        "total": 9,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ab_ba_gi": {
+      "na": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ki_la2": {
+      "bi": {
+        "count": 19,
+        "total": 19,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_kin_gi4": {
+      "a": {
+        "count": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_si_ma": {
+      "num2{ki}": {
+        "count": 8,
+        "total": 8,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_e2_iti": {
+      "6(disz)": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_uri5{ki}_ma": {
+      "ke4": {
+        "count": 14,
+        "total": 14,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_na_ru2_a": {
+      "mah": {
+        "count": 8,
+        "total": 8,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_nu_banda3": {
+      "gu4": {
+        "count": 7,
+        "total": 8,
+        "accuracy": 0.875
+      }
+    },
+    "after_sequence_ab_ba_sa6_ga": {
+      "ta": {
+        "count": 16,
+        "total": 16,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_gu4_e_us2": {
+      "sa": {
+        "count": 14,
+        "total": 14,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_a2_ge6_ba": {
+      "a": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ezem_an": {
+      "na": {
+        "count": 7,
+        "total": 7,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_i7_pa": {
+      "e3": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lugal_ku3": {
+      "zu": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_za_ab_sza": {
+      "li{ki}": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_giri3_se3": {
+      "ga": {
+        "count": 10,
+        "total": 10,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lu2_{d}nin": {
+      "szubur": {
+        "count": 6,
+        "total": 7,
+        "accuracy": 0.8571428571428571
+      }
+    },
+    "after_sequence_sza3_bi": {
+      "ta": {
+        "count": 9,
+        "total": 9,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_igi_6(disz)": {
+      "gal2": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_lu2_gi": {
+      "na": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ur_{d}szul_pa": {
+      "e3": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_hu_uh2_nu": {
+      "ri{ki}": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ses_da": {
+      "gu7": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_nig2_ar3": {
+      "ra": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_si_i3": {
+      "tum": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_ki_en": {
+      "gi": {
+        "count": 6,
+        "total": 6,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_{d}szul_gi_iri": {
+      "mu": {
+        "count": 5,
+        "total": 5,
+        "accuracy": 1.0
+      }
+    },
+    "after_sequence_zi_ga": {
+      "am3": {
+        "count": 8,
+        "total": 8,
+        "accuracy": 1.0
+      }
+    },
+    "pos_type_NU": {
+      "kam": {
+        "count": 145,
+        "total": 209,
+        "frequency": 0.69377990430622
+      },
+      "sze3": {
+        "count": 23,
+        "total": 209,
+        "frequency": 0.11004784688995216
+      }
+    },
+    "pos_type_NF": {
+      "ga": {
+        "count": 91,
+        "total": 298,
+        "frequency": 0.3053691275167785
+      },
+      "sa": {
+        "count": 44,
+        "total": 298,
+        "frequency": 0.1476510067114094
+      },
+      "a": {
+        "count": 34,
+        "total": 298,
+        "frequency": 0.11409395973154363
+      }
+    },
+    "pos_type_PN": {
+      "ta": {
+        "count": 187,
+        "total": 1346,
+        "frequency": 0.13893016344725112
+      }
+    },
+    "pos_type_FIN": {
+      "dab5": {
+        "count": 40,
+        "total": 93,
+        "frequency": 0.43010752688172044
+      },
+      "gal2": {
+        "count": 29,
+        "total": 93,
+        "frequency": 0.3118279569892473
+      },
+      "a": {
+        "count": 10,
+        "total": 93,
+        "frequency": 0.10752688172043011
+      }
+    },
+    "pos_type_RN": {
+      "{d}suen": {
+        "count": 69,
+        "total": 89,
+        "frequency": 0.7752808988764045
+      },
+      "gi": {
+        "count": 10,
+        "total": 89,
+        "frequency": 0.11235955056179775
+      }
+    },
+    "pos_type_DN": {
+      "la2": {
+        "count": 13,
+        "total": 111,
+        "frequency": 0.11711711711711711
+      },
+      "ra": {
+        "count": 12,
+        "total": 111,
+        "frequency": 0.10810810810810811
+      },
+      "lil2": {
+        "count": 12,
+        "total": 111,
+        "frequency": 0.10810810810810811
+      }
+    },
+    "pos_type_VEN": {
+      "hul": {
+        "count": 16,
+        "total": 42,
+        "frequency": 0.38095238095238093
+      },
+      "du3": {
+        "count": 12,
+        "total": 42,
+        "frequency": 0.2857142857142857
+      },
+      "kux(DU)": {
+        "count": 7,
+        "total": 42,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "pos_type_MID": {
+      "hul": {
+        "count": 81,
+        "total": 275,
+        "frequency": 0.29454545454545455
+      },
+      "ti": {
+        "count": 46,
+        "total": 275,
+        "frequency": 0.16727272727272727
+      },
+      "hun": {
+        "count": 41,
+        "total": 275,
+        "frequency": 0.14909090909090908
+      }
+    },
+    "pos_type__": {
+      "x": {
+        "count": 14,
+        "total": 80,
+        "frequency": 0.175
+      },
+      "...": {
+        "count": 13,
+        "total": 80,
+        "frequency": 0.1625
+      }
+    },
+    "pos_type_SN": {
+      "ma": {
+        "count": 28,
+        "total": 240,
+        "frequency": 0.11666666666666667
+      },
+      "um{ki}": {
+        "count": 25,
+        "total": 240,
+        "frequency": 0.10416666666666667
+      }
+    },
+    "pos_type_GN": {
+      "an{ki}": {
+        "count": 10,
+        "total": 29,
+        "frequency": 0.3448275862068966
+      },
+      "gi": {
+        "count": 6,
+        "total": 29,
+        "frequency": 0.20689655172413793
+      },
+      "uri": {
+        "count": 6,
+        "total": 29,
+        "frequency": 0.20689655172413793
+      },
+      "ta": {
+        "count": 3,
+        "total": 29,
+        "frequency": 0.10344827586206896
+      }
+    },
+    "pos_type_FN": {
+      "ta": {
+        "count": 5,
+        "total": 30,
+        "frequency": 0.16666666666666666
+      },
+      "na": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      }
+    }
+  },
+  "prefix_rules": {
+    "before_babbar": {
+      "ku3": {
+        "count": 20,
+        "total": 20,
+        "frequency": 1.0
+      }
+    },
+    "before_esz3": {
+      "min": {
+        "count": 8,
+        "total": 13,
+        "frequency": 0.6153846153846154
+      },
+      "esz3": {
+        "count": 3,
+        "total": 13,
+        "frequency": 0.23076923076923078
+      }
+    },
+    "before_am3": {
+      "ur": {
+        "count": 3,
+        "total": 15,
+        "frequency": 0.2
+      },
+      "2(disz)": {
+        "count": 5,
+        "total": 15,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "before_la": {
+      "{d}gu": {
+        "count": 4,
+        "total": 30,
+        "frequency": 0.13333333333333333
+      },
+      "al": {
+        "count": 4,
+        "total": 30,
+        "frequency": 0.13333333333333333
+      },
+      "{d}al": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      }
+    },
+    "before_he2": {
+      "lugal": {
+        "count": 7,
+        "total": 11,
+        "frequency": 0.6363636363636364
+      }
+    },
+    "before_la2": {
+      "ki": {
+        "count": 20,
+        "total": 27,
+        "frequency": 0.7407407407407407
+      }
+    },
+    "before_bi": {
+      "sza3": {
+        "count": 10,
+        "total": 122,
+        "frequency": 0.08196721311475409
+      },
+      "sze": {
+        "count": 13,
+        "total": 122,
+        "frequency": 0.10655737704918032
+      },
+      "a2": {
+        "count": 20,
+        "total": 122,
+        "frequency": 0.16393442622950818
+      },
+      "ku3": {
+        "count": 47,
+        "total": 122,
+        "frequency": 0.38524590163934425
+      }
+    },
+    "before_pa3": {
+      "i3": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "before_tu": {
+      "a": {
+        "count": 7,
+        "total": 21,
+        "frequency": 0.3333333333333333
+      },
+      "mar": {
+        "count": 14,
+        "total": 21,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_ba": {
+      "ab": {
+        "count": 31,
+        "total": 145,
+        "frequency": 0.21379310344827587
+      },
+      "na": {
+        "count": 9,
+        "total": 145,
+        "frequency": 0.06206896551724138
+      },
+      "sze": {
+        "count": 22,
+        "total": 145,
+        "frequency": 0.15172413793103448
+      },
+      "limmu2": {
+        "count": 14,
+        "total": 145,
+        "frequency": 0.09655172413793103
+      }
+    },
+    "before_nesag": {
+      "lugal": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_bi2": {
+      "{d}i": {
+        "count": 7,
+        "total": 28,
+        "frequency": 0.25
+      },
+      "ur": {
+        "count": 10,
+        "total": 28,
+        "frequency": 0.35714285714285715
+      },
+      "u5": {
+        "count": 5,
+        "total": 28,
+        "frequency": 0.17857142857142858
+      }
+    },
+    "before_sar": {
+      "dub": {
+        "count": 61,
+        "total": 62,
+        "frequency": 0.9838709677419355
+      }
+    },
+    "before_...": {
+      "ur": {
+        "count": 4,
+        "total": 29,
+        "frequency": 0.13793103448275862
+      },
+      "x": {
+        "count": 3,
+        "total": 29,
+        "frequency": 0.10344827586206896
+      },
+      "lu2": {
+        "count": 3,
+        "total": 29,
+        "frequency": 0.10344827586206896
+      },
+      "{d}nin": {
+        "count": 3,
+        "total": 29,
+        "frequency": 0.10344827586206896
+      },
+      "udu": {
+        "count": 3,
+        "total": 29,
+        "frequency": 0.10344827586206896
+      }
+    },
+    "before_ha": {
+      "nam": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      }
+    },
+    "before_da": {
+      "ma": {
+        "count": 23,
+        "total": 105,
+        "frequency": 0.21904761904761905
+      },
+      "da": {
+        "count": 19,
+        "total": 105,
+        "frequency": 0.18095238095238095
+      },
+      "gid2": {
+        "count": 8,
+        "total": 105,
+        "frequency": 0.0761904761904762
+      },
+      "ad": {
+        "count": 9,
+        "total": 105,
+        "frequency": 0.08571428571428572
+      },
+      "a": {
+        "count": 7,
+        "total": 105,
+        "frequency": 0.06666666666666667
+      }
+    },
+    "before_kar": {
+      "sze": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_sag": {
+      "igi": {
+        "count": 4,
+        "total": 11,
+        "frequency": 0.36363636363636365
+      },
+      "sze": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      }
+    },
+    "before_ma": {
+      "uri5{ki}": {
+        "count": 44,
+        "total": 79,
+        "frequency": 0.5569620253164557
+      },
+      "si": {
+        "count": 8,
+        "total": 79,
+        "frequency": 0.10126582278481013
+      },
+      "szu": {
+        "count": 5,
+        "total": 79,
+        "frequency": 0.06329113924050633
+      }
+    },
+    "before_dingir": {
+      "lu2": {
+        "count": 19,
+        "total": 24,
+        "frequency": 0.7916666666666666
+      }
+    },
+    "before_su": {
+      "su": {
+        "count": 4,
+        "total": 26,
+        "frequency": 0.15384615384615385
+      },
+      "bar": {
+        "count": 19,
+        "total": 26,
+        "frequency": 0.7307692307692307
+      }
+    },
+    "before_ni": {
+      "giri3": {
+        "count": 4,
+        "total": 27,
+        "frequency": 0.14814814814814814
+      },
+      "du": {
+        "count": 3,
+        "total": 27,
+        "frequency": 0.1111111111111111
+      },
+      "dumu": {
+        "count": 5,
+        "total": 27,
+        "frequency": 0.18518518518518517
+      }
+    },
+    "before_sag11": {
+      "sze": {
+        "count": 23,
+        "total": 23,
+        "frequency": 1.0
+      }
+    },
+    "before_hun": {
+      "ba": {
+        "count": 41,
+        "total": 41,
+        "frequency": 1.0
+      }
+    },
+    "before_nu": {
+      "en": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      }
+    },
+    "before_{d}szul": {
+      "ezem": {
+        "count": 14,
+        "total": 26,
+        "frequency": 0.5384615384615384
+      },
+      "ur": {
+        "count": 8,
+        "total": 26,
+        "frequency": 0.3076923076923077
+      }
+    },
+    "before_de2": {
+      "gu3": {
+        "count": 11,
+        "total": 13,
+        "frequency": 0.8461538461538461
+      }
+    },
+    "before_a": {
+      "bala": {
+        "count": 16,
+        "total": 127,
+        "frequency": 0.12598425196850394
+      },
+      "ba": {
+        "count": 12,
+        "total": 127,
+        "frequency": 0.09448818897637795
+      },
+      "a": {
+        "count": 15,
+        "total": 127,
+        "frequency": 0.11811023622047244
+      },
+      "hi": {
+        "count": 9,
+        "total": 127,
+        "frequency": 0.07086614173228346
+      }
+    },
+    "before_x": {
+      "x": {
+        "count": 10,
+        "total": 31,
+        "frequency": 0.3225806451612903
+      },
+      "lugal": {
+        "count": 3,
+        "total": 31,
+        "frequency": 0.0967741935483871
+      },
+      "ur": {
+        "count": 5,
+        "total": 31,
+        "frequency": 0.16129032258064516
+      },
+      "...": {
+        "count": 5,
+        "total": 31,
+        "frequency": 0.16129032258064516
+      }
+    },
+    "before_{d}suen": {
+      "{d}amar": {
+        "count": 17,
+        "total": 75,
+        "frequency": 0.22666666666666666
+      },
+      "{d}szu": {
+        "count": 41,
+        "total": 75,
+        "frequency": 0.5466666666666666
+      },
+      "ur": {
+        "count": 6,
+        "total": 75,
+        "frequency": 0.08
+      },
+      "lu2": {
+        "count": 4,
+        "total": 75,
+        "frequency": 0.05333333333333334
+      }
+    },
+    "before_u2": {
+      "pa4": {
+        "count": 6,
+        "total": 22,
+        "frequency": 0.2727272727272727
+      }
+    },
+    "before_{gesz}gigir": {
+      "ur": {
+        "count": 8,
+        "total": 11,
+        "frequency": 0.7272727272727273
+      }
+    },
+    "before_gaba": {
+      "ra2": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "before_kam": {
+      "2(disz)": {
+        "count": 35,
+        "total": 158,
+        "frequency": 0.22151898734177214
+      },
+      "3(disz)": {
+        "count": 21,
+        "total": 158,
+        "frequency": 0.13291139240506328
+      },
+      "1(disz)": {
+        "count": 22,
+        "total": 158,
+        "frequency": 0.13924050632911392
+      },
+      "5(disz)": {
+        "count": 10,
+        "total": 158,
+        "frequency": 0.06329113924050633
+      },
+      "8(disz)": {
+        "count": 9,
+        "total": 158,
+        "frequency": 0.056962025316455694
+      },
+      "4(disz)": {
+        "count": 17,
+        "total": 158,
+        "frequency": 0.10759493670886076
+      }
+    },
+    "before_{d}ba": {
+      "ur": {
+        "count": 8,
+        "total": 17,
+        "frequency": 0.47058823529411764
+      },
+      "lu2": {
+        "count": 4,
+        "total": 17,
+        "frequency": 0.23529411764705882
+      },
+      "ezem": {
+        "count": 3,
+        "total": 17,
+        "frequency": 0.17647058823529413
+      }
+    },
+    "before_za": {
+      "gu": {
+        "count": 8,
+        "total": 22,
+        "frequency": 0.36363636363636365
+      },
+      "guz": {
+        "count": 4,
+        "total": 22,
+        "frequency": 0.18181818181818182
+      },
+      "{d}gu": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      },
+      "{gesz}gu": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      }
+    },
+    "before_dab5": {
+      "i3": {
+        "count": 40,
+        "total": 65,
+        "frequency": 0.6153846153846154
+      },
+      "nig2": {
+        "count": 14,
+        "total": 65,
+        "frequency": 0.2153846153846154
+      },
+      "he2": {
+        "count": 5,
+        "total": 65,
+        "frequency": 0.07692307692307693
+      }
+    },
+    "before_du3": {
+      "ba": {
+        "count": 31,
+        "total": 50,
+        "frequency": 0.62
+      },
+      "mu": {
+        "count": 8,
+        "total": 50,
+        "frequency": 0.16
+      },
+      "gesz": {
+        "count": 3,
+        "total": 50,
+        "frequency": 0.06
+      },
+      "in": {
+        "count": 4,
+        "total": 50,
+        "frequency": 0.08
+      }
+    },
+    "before_gal2": {
+      "bar": {
+        "count": 19,
+        "total": 51,
+        "frequency": 0.37254901960784315
+      },
+      "i3": {
+        "count": 28,
+        "total": 51,
+        "frequency": 0.5490196078431373
+      }
+    },
+    "before_nun": {
+      "i3": {
+        "count": 7,
+        "total": 10,
+        "frequency": 0.7
+      }
+    },
+    "before_na": {
+      "ma": {
+        "count": 47,
+        "total": 100,
+        "frequency": 0.47
+      },
+      "gen": {
+        "count": 14,
+        "total": 100,
+        "frequency": 0.14
+      }
+    },
+    "before_ka9": {
+      "nig2": {
+        "count": 19,
+        "total": 19,
+        "frequency": 1.0
+      }
+    },
+    "before_e11": {
+      "ur": {
+        "count": 12,
+        "total": 12,
+        "frequency": 1.0
+      }
+    },
+    "before_{d}szara2": {
+      "ur": {
+        "count": 8,
+        "total": 33,
+        "frequency": 0.24242424242424243
+      },
+      "inim": {
+        "count": 7,
+        "total": 33,
+        "frequency": 0.21212121212121213
+      },
+      "lu2": {
+        "count": 13,
+        "total": 33,
+        "frequency": 0.3939393939393939
+      }
+    },
+    "before_asz": {
+      "sza": {
+        "count": 16,
+        "total": 20,
+        "frequency": 0.8
+      }
+    },
+    "before_ra2": {
+      "a": {
+        "count": 37,
+        "total": 40,
+        "frequency": 0.925
+      }
+    },
+    "before_hul": {
+      "ba": {
+        "count": 86,
+        "total": 103,
+        "frequency": 0.8349514563106796
+      },
+      "mu": {
+        "count": 17,
+        "total": 103,
+        "frequency": 0.1650485436893204
+      }
+    },
+    "before_usz2": {
+      "ba": {
+        "count": 24,
+        "total": 24,
+        "frequency": 1.0
+      }
+    },
+    "before_kal": {
+      "lu2": {
+        "count": 15,
+        "total": 51,
+        "frequency": 0.29411764705882354
+      },
+      "a": {
+        "count": 13,
+        "total": 51,
+        "frequency": 0.2549019607843137
+      },
+      "szesz": {
+        "count": 13,
+        "total": 51,
+        "frequency": 0.2549019607843137
+      },
+      "i3": {
+        "count": 3,
+        "total": 51,
+        "frequency": 0.058823529411764705
+      }
+    },
+    "before_unu6": {
+      "en": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "before_nigar{gar}": {
+      "ur": {
+        "count": 17,
+        "total": 18,
+        "frequency": 0.9444444444444444
+      }
+    },
+    "before_ti": {
+      "ba": {
+        "count": 45,
+        "total": 51,
+        "frequency": 0.8823529411764706
+      }
+    },
+    "before_i3": {
+      "szu": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      },
+      "gesz": {
+        "count": 9,
+        "total": 22,
+        "frequency": 0.4090909090909091
+      },
+      "si": {
+        "count": 5,
+        "total": 22,
+        "frequency": 0.22727272727272727
+      }
+    },
+    "before_kux(DU)": {
+      "mu": {
+        "count": 22,
+        "total": 22,
+        "frequency": 1.0
+      }
+    },
+    "before_gi": {
+      "{d}szul": {
+        "count": 26,
+        "total": 48,
+        "frequency": 0.5416666666666666
+      },
+      "da": {
+        "count": 3,
+        "total": 48,
+        "frequency": 0.0625
+      },
+      "siki": {
+        "count": 4,
+        "total": 48,
+        "frequency": 0.08333333333333333
+      },
+      "lu2": {
+        "count": 7,
+        "total": 48,
+        "frequency": 0.14583333333333334
+      }
+    },
+    "before_li2": {
+      "be": {
+        "count": 5,
+        "total": 14,
+        "frequency": 0.35714285714285715
+      },
+      "i3": {
+        "count": 7,
+        "total": 14,
+        "frequency": 0.5
+      }
+    },
+    "before_me": {
+      "ezem": {
+        "count": 8,
+        "total": 24,
+        "frequency": 0.3333333333333333
+      },
+      "lugal": {
+        "count": 3,
+        "total": 24,
+        "frequency": 0.125
+      },
+      "nin": {
+        "count": 3,
+        "total": 24,
+        "frequency": 0.125
+      }
+    },
+    "before_sa": {
+      "us2": {
+        "count": 48,
+        "total": 49,
+        "frequency": 0.9795918367346939
+      }
+    },
+    "before_sza": {
+      "an": {
+        "count": 11,
+        "total": 16,
+        "frequency": 0.6875
+      },
+      "lu2": {
+        "count": 3,
+        "total": 16,
+        "frequency": 0.1875
+      }
+    },
+    "before_su{ki}": {
+      "gir2": {
+        "count": 8,
+        "total": 9,
+        "frequency": 0.8888888888888888
+      }
+    },
+    "before_us2": {
+      "aga3": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      },
+      "ka": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "before_ab": {
+      "ba": {
+        "count": 12,
+        "total": 37,
+        "frequency": 0.32432432432432434
+      },
+      "ur": {
+        "count": 8,
+        "total": 37,
+        "frequency": 0.21621621621621623
+      },
+      "za": {
+        "count": 10,
+        "total": 37,
+        "frequency": 0.2702702702702703
+      }
+    },
+    "before_banda3": {
+      "nu": {
+        "count": 21,
+        "total": 21,
+        "frequency": 1.0
+      }
+    },
+    "before_lu": {
+      "lu": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "before_zi": {
+      "kar": {
+        "count": 10,
+        "total": 40,
+        "frequency": 0.25
+      },
+      "{d}dumu": {
+        "count": 9,
+        "total": 40,
+        "frequency": 0.225
+      },
+      "ba": {
+        "count": 12,
+        "total": 40,
+        "frequency": 0.3
+      }
+    },
+    "before_ta": {
+      "gaba": {
+        "count": 8,
+        "total": 74,
+        "frequency": 0.10810810810810811
+      },
+      "in": {
+        "count": 5,
+        "total": 74,
+        "frequency": 0.06756756756756757
+      }
+    },
+    "before_si": {
+      "lugal": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "before_du11": {
+      "bi2": {
+        "count": 5,
+        "total": 18,
+        "frequency": 0.2777777777777778
+      },
+      "sa2": {
+        "count": 11,
+        "total": 18,
+        "frequency": 0.6111111111111112
+      }
+    },
+    "before_lil2": {
+      "{d}en": {
+        "count": 31,
+        "total": 40,
+        "frequency": 0.775
+      },
+      "{d}nin": {
+        "count": 9,
+        "total": 40,
+        "frequency": 0.225
+      }
+    },
+    "before_sza3": {
+      "a": {
+        "count": 43,
+        "total": 48,
+        "frequency": 0.8958333333333334
+      }
+    },
+    "before_gesz": {
+      "{d}nin": {
+        "count": 4,
+        "total": 24,
+        "frequency": 0.16666666666666666
+      },
+      "i3": {
+        "count": 13,
+        "total": 24,
+        "frequency": 0.5416666666666666
+      },
+      "gu4": {
+        "count": 4,
+        "total": 24,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "before_{d}nin": {
+      "lu2": {
+        "count": 12,
+        "total": 22,
+        "frequency": 0.5454545454545454
+      },
+      "ezem": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      },
+      "ur": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      },
+      "ku3": {
+        "count": 3,
+        "total": 22,
+        "frequency": 0.13636363636363635
+      }
+    },
+    "before_en": {
+      "ki": {
+        "count": 6,
+        "total": 11,
+        "frequency": 0.5454545454545454
+      }
+    },
+    "before_sze3": {
+      "1(disz)": {
+        "count": 14,
+        "total": 50,
+        "frequency": 0.28
+      },
+      "3(disz)": {
+        "count": 4,
+        "total": 50,
+        "frequency": 0.08
+      },
+      "5(disz)": {
+        "count": 3,
+        "total": 50,
+        "frequency": 0.06
+      }
+    },
+    "before_dub": {
+      "dub": {
+        "count": 3,
+        "total": 51,
+        "frequency": 0.058823529411764705
+      },
+      "pisan": {
+        "count": 34,
+        "total": 51,
+        "frequency": 0.6666666666666666
+      },
+      "i3": {
+        "count": 5,
+        "total": 51,
+        "frequency": 0.09803921568627451
+      },
+      "sza13": {
+        "count": 4,
+        "total": 51,
+        "frequency": 0.0784313725490196
+      }
+    },
+    "before_iti": {
+      "lugal": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      },
+      "e2": {
+        "count": 6,
+        "total": 10,
+        "frequency": 0.6
+      }
+    },
+    "before_ar": {
+      "ha": {
+        "count": 8,
+        "total": 9,
+        "frequency": 0.8888888888888888
+      }
+    },
+    "before_masz{ki}": {
+      "ki": {
+        "count": 20,
+        "total": 20,
+        "frequency": 1.0
+      }
+    },
+    "before_gal": {
+      "masz2": {
+        "count": 28,
+        "total": 57,
+        "frequency": 0.49122807017543857
+      },
+      "sza3": {
+        "count": 10,
+        "total": 57,
+        "frequency": 0.17543859649122806
+      },
+      "e2": {
+        "count": 10,
+        "total": 57,
+        "frequency": 0.17543859649122806
+      },
+      "bad3": {
+        "count": 3,
+        "total": 57,
+        "frequency": 0.05263157894736842
+      }
+    },
+    "before_lum": {
+      "a": {
+        "count": 28,
+        "total": 30,
+        "frequency": 0.9333333333333333
+      }
+    },
+    "before_ar3": {
+      "ga": {
+        "count": 3,
+        "total": 8,
+        "frequency": 0.375
+      },
+      "nig2": {
+        "count": 5,
+        "total": 8,
+        "frequency": 0.625
+      }
+    },
+    "before_ga": {
+      "du10": {
+        "count": 7,
+        "total": 118,
+        "frequency": 0.059322033898305086
+      },
+      "su": {
+        "count": 6,
+        "total": 118,
+        "frequency": 0.05084745762711865
+      },
+      "kal": {
+        "count": 21,
+        "total": 118,
+        "frequency": 0.17796610169491525
+      },
+      "si": {
+        "count": 6,
+        "total": 118,
+        "frequency": 0.05084745762711865
+      },
+      "zi": {
+        "count": 49,
+        "total": 118,
+        "frequency": 0.4152542372881356
+      }
+    },
+    "before_gu": {
+      "zi3": {
+        "count": 6,
+        "total": 21,
+        "frequency": 0.2857142857142857
+      },
+      "a": {
+        "count": 7,
+        "total": 21,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "before_si4": {
+      "{d}li9": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "before_sa6": {
+      "na": {
+        "count": 8,
+        "total": 34,
+        "frequency": 0.23529411764705882
+      },
+      "lugal": {
+        "count": 4,
+        "total": 34,
+        "frequency": 0.11764705882352941
+      },
+      "lu2": {
+        "count": 5,
+        "total": 34,
+        "frequency": 0.14705882352941177
+      },
+      "ba": {
+        "count": 4,
+        "total": 34,
+        "frequency": 0.11764705882352941
+      },
+      "in": {
+        "count": 3,
+        "total": 34,
+        "frequency": 0.08823529411764706
+      }
+    },
+    "before_du": {
+      "a": {
+        "count": 5,
+        "total": 18,
+        "frequency": 0.2777777777777778
+      },
+      "gu": {
+        "count": 3,
+        "total": 18,
+        "frequency": 0.16666666666666666
+      },
+      "u2": {
+        "count": 3,
+        "total": 18,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "before_mu": {
+      "ARAD2": {
+        "count": 9,
+        "total": 38,
+        "frequency": 0.23684210526315788
+      },
+      "si": {
+        "count": 15,
+        "total": 38,
+        "frequency": 0.39473684210526316
+      },
+      "lugal": {
+        "count": 4,
+        "total": 38,
+        "frequency": 0.10526315789473684
+      },
+      "usz": {
+        "count": 3,
+        "total": 38,
+        "frequency": 0.07894736842105263
+      }
+    },
+    "before_ra": {
+      "er3": {
+        "count": 6,
+        "total": 52,
+        "frequency": 0.11538461538461539
+      },
+      "kux(KWU147)": {
+        "count": 3,
+        "total": 52,
+        "frequency": 0.057692307692307696
+      },
+      "na": {
+        "count": 5,
+        "total": 52,
+        "frequency": 0.09615384615384616
+      },
+      "ba": {
+        "count": 3,
+        "total": 52,
+        "frequency": 0.057692307692307696
+      },
+      "dingir": {
+        "count": 5,
+        "total": 52,
+        "frequency": 0.09615384615384616
+      },
+      "szar2": {
+        "count": 3,
+        "total": 52,
+        "frequency": 0.057692307692307696
+      },
+      "ur5": {
+        "count": 5,
+        "total": 52,
+        "frequency": 0.09615384615384616
+      },
+      "szuku": {
+        "count": 3,
+        "total": 52,
+        "frequency": 0.057692307692307696
+      }
+    },
+    "before_e": {
+      "lugal": {
+        "count": 21,
+        "total": 46,
+        "frequency": 0.45652173913043476
+      },
+      "masz": {
+        "count": 4,
+        "total": 46,
+        "frequency": 0.08695652173913043
+      },
+      "gu4": {
+        "count": 14,
+        "total": 46,
+        "frequency": 0.30434782608695654
+      }
+    },
+    "before_ur4": {
+      "{d}nin": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_tum": {
+      "e2": {
+        "count": 16,
+        "total": 17,
+        "frequency": 0.9411764705882353
+      }
+    },
+    "before_mah": {
+      "en": {
+        "count": 4,
+        "total": 12,
+        "frequency": 0.3333333333333333
+      },
+      "ezem": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      }
+    },
+    "before_4(disz)": {
+      "igi": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "before_{d}dumu": {
+      "ur": {
+        "count": 8,
+        "total": 12,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_ia3": {
+      "la2": {
+        "count": 17,
+        "total": 19,
+        "frequency": 0.8947368421052632
+      }
+    },
+    "before_e2": {
+      "lugal": {
+        "count": 5,
+        "total": 30,
+        "frequency": 0.16666666666666666
+      },
+      "{d}nin": {
+        "count": 4,
+        "total": 30,
+        "frequency": 0.13333333333333333
+      },
+      "ur": {
+        "count": 9,
+        "total": 30,
+        "frequency": 0.3
+      },
+      "szul": {
+        "count": 3,
+        "total": 30,
+        "frequency": 0.1
+      },
+      "nin": {
+        "count": 4,
+        "total": 30,
+        "frequency": 0.13333333333333333
+      }
+    },
+    "before_lu5": {
+      "na": {
+        "count": 6,
+        "total": 16,
+        "frequency": 0.375
+      },
+      "a": {
+        "count": 6,
+        "total": 16,
+        "frequency": 0.375
+      }
+    },
+    "before_an": {
+      "ma": {
+        "count": 3,
+        "total": 31,
+        "frequency": 0.0967741935483871
+      },
+      "ezem": {
+        "count": 7,
+        "total": 31,
+        "frequency": 0.22580645161290322
+      },
+      "ba": {
+        "count": 4,
+        "total": 31,
+        "frequency": 0.12903225806451613
+      },
+      "{gi}ba": {
+        "count": 3,
+        "total": 31,
+        "frequency": 0.0967741935483871
+      }
+    },
+    "before_ki": {
+      "nigar{gar}": {
+        "count": 4,
+        "total": 39,
+        "frequency": 0.10256410256410256
+      },
+      "a2": {
+        "count": 11,
+        "total": 39,
+        "frequency": 0.28205128205128205
+      },
+      "{d}en": {
+        "count": 13,
+        "total": 39,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "before_igi": {
+      "lu2": {
+        "count": 4,
+        "total": 7,
+        "frequency": 0.5714285714285714
+      },
+      "lugal": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "before_ur5": {
+      "hu": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_numun": {
+      "szu": {
+        "count": 4,
+        "total": 7,
+        "frequency": 0.5714285714285714
+      },
+      "sze": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "before_{d}nansze": {
+      "ur": {
+        "count": 6,
+        "total": 8,
+        "frequency": 0.75
+      }
+    },
+    "before_lu2": {
+      "lugal": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "before_inim": {
+      "lugal": {
+        "count": 3,
+        "total": 8,
+        "frequency": 0.375
+      }
+    },
+    "before_{d}en": {
+      "ur": {
+        "count": 6,
+        "total": 14,
+        "frequency": 0.42857142857142855
+      },
+      "puzur4": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "before_du10": {
+      "lu2": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_{d}isztaran": {
+      "ur": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_ma2": {
+      "lugal": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_zu": {
+      "ARAD2": {
+        "count": 20,
+        "total": 28,
+        "frequency": 0.7142857142857143
+      },
+      "ur": {
+        "count": 3,
+        "total": 28,
+        "frequency": 0.10714285714285714
+      }
+    },
+    "before_ezem": {
+      "lugal": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "before_ka": {
+      "ensi2": {
+        "count": 14,
+        "total": 25,
+        "frequency": 0.56
+      },
+      "umma{ki}": {
+        "count": 3,
+        "total": 25,
+        "frequency": 0.12
+      }
+    },
+    "before_ub": {
+      "an": {
+        "count": 14,
+        "total": 15,
+        "frequency": 0.9333333333333333
+      }
+    },
+    "before_{d}li9": {
+      "ur": {
+        "count": 10,
+        "total": 13,
+        "frequency": 0.7692307692307693
+      }
+    },
+    "before_{d}iszkur": {
+      "ur": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_ne": {
+      "mu": {
+        "count": 5,
+        "total": 8,
+        "frequency": 0.625
+      }
+    },
+    "before_ku5": {
+      "kab2": {
+        "count": 12,
+        "total": 15,
+        "frequency": 0.8
+      }
+    },
+    "before_ku3": {
+      "lugal": {
+        "count": 9,
+        "total": 17,
+        "frequency": 0.5294117647058824
+      }
+    },
+    "before_gi4": {
+      "kin": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "before_{d}nanna": {
+      "ku3": {
+        "count": 4,
+        "total": 15,
+        "frequency": 0.26666666666666666
+      },
+      "ARAD2": {
+        "count": 3,
+        "total": 15,
+        "frequency": 0.2
+      },
+      "lu2": {
+        "count": 5,
+        "total": 15,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "before_bar": {
+      "u": {
+        "count": 4,
+        "total": 13,
+        "frequency": 0.3076923076923077
+      },
+      "usz": {
+        "count": 5,
+        "total": 13,
+        "frequency": 0.38461538461538464
+      }
+    },
+    "before_ur2": {
+      "nu": {
+        "count": 5,
+        "total": 8,
+        "frequency": 0.625
+      }
+    },
+    "before_ru2": {
+      "na": {
+        "count": 10,
+        "total": 11,
+        "frequency": 0.9090909090909091
+      }
+    },
+    "before_uh2": {
+      "hu": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_ad": {
+      "ba": {
+        "count": 3,
+        "total": 6,
+        "frequency": 0.5
+      }
+    },
+    "before_{d}utu": {
+      "ur": {
+        "count": 5,
+        "total": 10,
+        "frequency": 0.5
+      },
+      "lu2": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      }
+    },
+    "before_hu": {
+      "a": {
+        "count": 9,
+        "total": 11,
+        "frequency": 0.8181818181818182
+      }
+    },
+    "before_zal": {
+      "ba": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_sakar": {
+      "u4": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_hi": {
+      "lugal": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "before_ge6": {
+      "a2": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "before_duru5": {
+      "e2": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_banda3{da}": {
+      "lu2": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "before_gar3": {
+      "{munus}asz2": {
+        "count": 8,
+        "total": 17,
+        "frequency": 0.47058823529411764
+      },
+      "dam": {
+        "count": 9,
+        "total": 17,
+        "frequency": 0.5294117647058824
+      }
+    },
+    "before_tur": {
+      "tur": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "before_ri": {
+      "mu": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      },
+      "gaba": {
+        "count": 5,
+        "total": 12,
+        "frequency": 0.4166666666666667
+      }
+    },
+    "before_nig2": {
+      "lugal": {
+        "count": 5,
+        "total": 11,
+        "frequency": 0.45454545454545453
+      },
+      "sag": {
+        "count": 5,
+        "total": 11,
+        "frequency": 0.45454545454545453
+      }
+    },
+    "before_pa": {
+      "i7": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "before_ga2": {
+      "hun": {
+        "count": 6,
+        "total": 11,
+        "frequency": 0.5454545454545454
+      }
+    },
+    "before_se3": {
+      "giri3": {
+        "count": 10,
+        "total": 11,
+        "frequency": 0.9090909090909091
+      }
+    },
+    "before_{d}lamma": {
+      "ur": {
+        "count": 12,
+        "total": 13,
+        "frequency": 0.9230769230769231
+      }
+    },
+    "before_re": {
+      "er3": {
+        "count": 3,
+        "total": 6,
+        "frequency": 0.5
+      }
+    },
+    "before_gid2": {
+      "szu": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "before_mes": {
+      "ur": {
+        "count": 9,
+        "total": 10,
+        "frequency": 0.9
+      }
+    },
+    "before_mur": {
+      "a": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "before_nir": {
+      "szu": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_6(disz)": {
+      "igi": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_da3": {
+      "masz": {
+        "count": 12,
+        "total": 13,
+        "frequency": 0.9230769230769231
+      }
+    },
+    "before_iri": {
+      "lu2": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "before_{d}da": {
+      "ur": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "before_tuku": {
+      "nu": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_li": {
+      "ur": {
+        "count": 3,
+        "total": 8,
+        "frequency": 0.375
+      }
+    },
+    "before_dim2": {
+      "ba": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "before_babbar2": {
+      "im": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "before_e3": {
+      "si": {
+        "count": 8,
+        "total": 9,
+        "frequency": 0.8888888888888888
+      }
+    },
+    "before_IL2": {
+      "ug3": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "before_eb": {
+      "lu2": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "before_gu4": {
+      "lugal": {
+        "count": 3,
+        "total": 8,
+        "frequency": 0.375
+      }
+    },
+    "before_mah2": {
+      "ab2": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "before_gur8": {
+      "ma2": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "before_gur2": {
+      "id": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_uri": {
+      "ki": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_{d}namma": {
+      "ur": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "before_gur11": {
+      "nig2": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "ends_am3": {
+      "la2": {
+        "count": 4,
+        "total": 11,
+        "frequency": 0.36363636363636365
+      },
+      "nig2": {
+        "count": 2,
+        "total": 11,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_la": {
+      "dub": {
+        "count": 4,
+        "total": 22,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_gal2": {
+      "dub": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      },
+      "us2": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      },
+      "ku3": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      }
+    },
+    "ends_du11": {
+      "{d}en": {
+        "count": 2,
+        "total": 7,
+        "frequency": 0.2857142857142857
+      }
+    },
+    "ends_bi": {
+      "igi": {
+        "count": 6,
+        "total": 22,
+        "frequency": 0.2727272727272727
+      },
+      "nu": {
+        "count": 4,
+        "total": 22,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_sag": {
+      "szum2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "mu": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "bahar3": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "dumu": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "lu2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_ke4": {
+      "ma": {
+        "count": 8,
+        "total": 20,
+        "frequency": 0.4
+      },
+      "na": {
+        "count": 3,
+        "total": 20,
+        "frequency": 0.15
+      },
+      "i3": {
+        "count": 3,
+        "total": 20,
+        "frequency": 0.15
+      }
+    },
+    "ends_sa6": {
+      "dub": {
+        "count": 2,
+        "total": 7,
+        "frequency": 0.2857142857142857
+      },
+      "i3": {
+        "count": 2,
+        "total": 7,
+        "frequency": 0.2857142857142857
+      }
+    },
+    "ends_ni": {
+      "i3": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      }
+    },
+    "ends_na": {
+      "siki": {
+        "count": 7,
+        "total": 39,
+        "frequency": 0.1794871794871795
+      }
+    },
+    "ends_ru{ki}": {
+      "ba": {
+        "count": 7,
+        "total": 9,
+        "frequency": 0.7777777777777778
+      }
+    },
+    "ends_ra2": {
+      "2(disz)": {
+        "count": 14,
+        "total": 30,
+        "frequency": 0.4666666666666667
+      },
+      "1(disz)": {
+        "count": 6,
+        "total": 30,
+        "frequency": 0.2
+      }
+    },
+    "ends_kam": {
+      "ba": {
+        "count": 6,
+        "total": 36,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "ends_hul": {
+      "ur": {
+        "count": 7,
+        "total": 37,
+        "frequency": 0.1891891891891892
+      }
+    },
+    "ends_{d}szara2": {
+      "dub": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      },
+      "i3": {
+        "count": 2,
+        "total": 9,
+        "frequency": 0.2222222222222222
+      }
+    },
+    "ends_hun": {
+      "lu2": {
+        "count": 5,
+        "total": 13,
+        "frequency": 0.38461538461538464
+      },
+      "lugal": {
+        "count": 2,
+        "total": 13,
+        "frequency": 0.15384615384615385
+      }
+    },
+    "ends_kux(DU)": {
+      "ur": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      },
+      "ab": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      }
+    },
+    "ends_tum": {
+      "sag": {
+        "count": 4,
+        "total": 16,
+        "frequency": 0.25
+      }
+    },
+    "ends_sa": {
+      "an": {
+        "count": 7,
+        "total": 38,
+        "frequency": 0.18421052631578946
+      },
+      "{d}szu": {
+        "count": 6,
+        "total": 38,
+        "frequency": 0.15789473684210525
+      }
+    },
+    "ends_an{ki}": {
+      "ba": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "ends_ti": {
+      "zi": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      }
+    },
+    "ends_da": {
+      "ba": {
+        "count": 14,
+        "total": 61,
+        "frequency": 0.22950819672131148
+      },
+      "limmu2": {
+        "count": 14,
+        "total": 61,
+        "frequency": 0.22950819672131148
+      },
+      "za": {
+        "count": 10,
+        "total": 61,
+        "frequency": 0.16393442622950818
+      }
+    },
+    "ends_du3": {
+      "ur": {
+        "count": 2,
+        "total": 13,
+        "frequency": 0.15384615384615385
+      },
+      "lu2": {
+        "count": 2,
+        "total": 13,
+        "frequency": 0.15384615384615385
+      }
+    },
+    "ends_sze3": {
+      "gen": {
+        "count": 10,
+        "total": 54,
+        "frequency": 0.18518518518518517
+      }
+    },
+    "ends_masz{ki}": {
+      "ba": {
+        "count": 15,
+        "total": 16,
+        "frequency": 0.9375
+      }
+    },
+    "ends_ga2": {
+      "zi": {
+        "count": 2,
+        "total": 5,
+        "frequency": 0.4
+      },
+      "aszgab": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "gu": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "ti": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_du": {
+      "ARAD2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "gaba": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "sze": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "lu2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "dub": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_mu": {
+      "dub": {
+        "count": 4,
+        "total": 13,
+        "frequency": 0.3076923076923077
+      },
+      "i3": {
+        "count": 3,
+        "total": 13,
+        "frequency": 0.23076923076923078
+      }
+    },
+    "ends_ra": {
+      "mu": {
+        "count": 8,
+        "total": 35,
+        "frequency": 0.22857142857142856
+      }
+    },
+    "ends_gi": {
+      "ki": {
+        "count": 6,
+        "total": 11,
+        "frequency": 0.5454545454545454
+      }
+    },
+    "ends_lum{ki}": {
+      "mu": {
+        "count": 7,
+        "total": 11,
+        "frequency": 0.6363636363636364
+      },
+      "ba": {
+        "count": 4,
+        "total": 11,
+        "frequency": 0.36363636363636365
+      }
+    },
+    "ends_ia3": {
+      "su": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "ends_um{ki}": {
+      "ba": {
+        "count": 18,
+        "total": 23,
+        "frequency": 0.782608695652174
+      }
+    },
+    "ends_lum": {
+      "ba": {
+        "count": 2,
+        "total": 5,
+        "frequency": 0.4
+      },
+      "engar": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "gesz": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "lugal": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_gesz": {
+      "id": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "ends_gal": {
+      "ba": {
+        "count": 4,
+        "total": 15,
+        "frequency": 0.26666666666666666
+      }
+    },
+    "ends_...": {
+      "dub": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      },
+      "{d}nin": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      },
+      "a": {
+        "count": 2,
+        "total": 11,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_la2": {
+      "ba": {
+        "count": 6,
+        "total": 14,
+        "frequency": 0.42857142857142855
+      },
+      "i3": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      },
+      "in": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "ends_ka": {
+      "ba": {
+        "count": 4,
+        "total": 14,
+        "frequency": 0.2857142857142857
+      },
+      "i3": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "ends_{d}suen": {
+      "lugal": {
+        "count": 16,
+        "total": 17,
+        "frequency": 0.9411764705882353
+      }
+    },
+    "ends_e": {
+      "ur": {
+        "count": 7,
+        "total": 26,
+        "frequency": 0.2692307692307692
+      },
+      "i3": {
+        "count": 6,
+        "total": 26,
+        "frequency": 0.23076923076923078
+      },
+      "dub": {
+        "count": 5,
+        "total": 26,
+        "frequency": 0.19230769230769232
+      },
+      "na": {
+        "count": 4,
+        "total": 26,
+        "frequency": 0.15384615384615385
+      }
+    },
+    "ends_ki": {
+      "ba": {
+        "count": 9,
+        "total": 11,
+        "frequency": 0.8181818181818182
+      },
+      "i3": {
+        "count": 2,
+        "total": 11,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_ku5": {
+      "u2": {
+        "count": 3,
+        "total": 11,
+        "frequency": 0.2727272727272727
+      },
+      "a": {
+        "count": 2,
+        "total": 11,
+        "frequency": 0.18181818181818182
+      }
+    },
+    "ends_du8": {
+      "{d}szu": {
+        "count": 3,
+        "total": 10,
+        "frequency": 0.3
+      },
+      "ARAD2": {
+        "count": 2,
+        "total": 10,
+        "frequency": 0.2
+      }
+    },
+    "ends_num2{ki}": {
+      "ba": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "ends_tu": {
+      "ba": {
+        "count": 5,
+        "total": 12,
+        "frequency": 0.4166666666666667
+      },
+      "mu": {
+        "count": 4,
+        "total": 12,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "ends_mah": {
+      "{d}en": {
+        "count": 5,
+        "total": 14,
+        "frequency": 0.35714285714285715
+      },
+      "ba": {
+        "count": 3,
+        "total": 14,
+        "frequency": 0.21428571428571427
+      }
+    },
+    "ends_zu": {
+      "sipa": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      },
+      "i3": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      },
+      "szar2": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      },
+      "bi2": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      },
+      "dub": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      },
+      "nu": {
+        "count": 1,
+        "total": 6,
+        "frequency": 0.16666666666666666
+      }
+    },
+    "ends_ge": {
+      "guru7": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "a": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "ra2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "ak": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "usz": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_ma": {
+      "na": {
+        "count": 3,
+        "total": 12,
+        "frequency": 0.25
+      }
+    },
+    "ends_e3": {
+      "ku3": {
+        "count": 5,
+        "total": 8,
+        "frequency": 0.625
+      }
+    },
+    "ends_za": {
+      "{d}en": {
+        "count": 6,
+        "total": 13,
+        "frequency": 0.46153846153846156
+      },
+      "3(disz)": {
+        "count": 2,
+        "total": 13,
+        "frequency": 0.15384615384615385
+      }
+    },
+    "ends_li{ki}": {
+      "mu": {
+        "count": 9,
+        "total": 10,
+        "frequency": 0.9
+      }
+    },
+    "ends_lil2": {
+      "{d}nin": {
+        "count": 7,
+        "total": 10,
+        "frequency": 0.7
+      }
+    },
+    "ends_dub": {
+      "a": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      },
+      "e2": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "...": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_dab5": {
+      "gesz": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      }
+    },
+    "ends_li": {
+      "ku3": {
+        "count": 2,
+        "total": 5,
+        "frequency": 0.4
+      },
+      "a": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "dam": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "su": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    },
+    "ends_ri{ki}": {
+      "ba": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "ends_babbar2": {
+      "ku3": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "ends_gur11": {
+      "ur": {
+        "count": 2,
+        "total": 5,
+        "frequency": 0.4
+      },
+      "{d}szul": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "bar": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      },
+      "sze": {
+        "count": 1,
+        "total": 5,
+        "frequency": 0.2
+      }
+    }
+  },
+  "infix_rules": {
+    "between_lugal_and_gal2": {
+      "he2": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_ab_and_gi": {
+      "ba": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_ba_and_na": {
+      "gi": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "between_lugal_and_e": {
+      "nesag": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}i_and_{d}suen": {
+      "bi2": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_nam_and_ni": {
+      "ha": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_sze_and_ra": {
+      "kar": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_kar_and_gal2": {
+      "ra": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_ra": {
+      "dingir": {
+        "count": 19,
+        "total": 19,
+        "frequency": 1.0
+      }
+    },
+    "between_dingir_and_ta": {
+      "ra": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "between_ur_and_ma": {
+      "am3": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "between_sze_and_ku5": {
+      "sag11": {
+        "count": 23,
+        "total": 26,
+        "frequency": 0.8846153846153846
+      },
+      "sag": {
+        "count": 3,
+        "total": 26,
+        "frequency": 0.11538461538461539
+      }
+    },
+    "between_gu3_and_a": {
+      "de2": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_sa6": {
+      "igi": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      },
+      "sa6": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "between_ur_and_ba6": {
+      "{d}ba": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_bar_and_ga": {
+      "su": {
+        "count": 15,
+        "total": 15,
+        "frequency": 1.0
+      }
+    },
+    "between_ur_and_e": {
+      "e11": {
+        "count": 12,
+        "total": 12,
+        "frequency": 1.0
+      }
+    },
+    "between_sza_and_ru{ki}": {
+      "asz": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_la": {
+      "kal": {
+        "count": 15,
+        "total": 17,
+        "frequency": 0.8823529411764706
+      }
+    },
+    "between_pa4_and_e": {
+      "u2": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_en_and_gal": {
+      "unu6": {
+        "count": 11,
+        "total": 15,
+        "frequency": 0.7333333333333333
+      },
+      "mah": {
+        "count": 3,
+        "total": 15,
+        "frequency": 0.2
+      }
+    },
+    "between_{d}nin_and_zu": {
+      "a": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_ezem_and_ki": {
+      "me": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "between_me_and_gal2": {
+      "ki": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_an_and_an{ki}": {
+      "sza": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "between_kar_and_da": {
+      "zi": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}en_and_la2": {
+      "lil2": {
+        "count": 28,
+        "total": 28,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}nin_and_zi": {
+      "gesz": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_gesz_and_da": {
+      "zi": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_szubur": {
+      "{d}nin": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_lugal_and_da": {
+      "iti": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "between_a_and_la": {
+      "kal": {
+        "count": 27,
+        "total": 27,
+        "frequency": 1.0
+      }
+    },
+    "between_ha_and_szi{ki}": {
+      "ar": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_ur_and_ta": {
+      "mes": {
+        "count": 4,
+        "total": 15,
+        "frequency": 0.26666666666666666
+      }
+    },
+    "between_pisan_and_ba": {
+      "dub": {
+        "count": 34,
+        "total": 34,
+        "frequency": 1.0
+      }
+    },
+    "between_nig2_and_ak": {
+      "ka9": {
+        "count": 15,
+        "total": 15,
+        "frequency": 1.0
+      }
+    },
+    "between_ba_and_ta": {
+      "du3": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "between_ur_and_lum{ki}": {
+      "bi2": {
+        "count": 10,
+        "total": 11,
+        "frequency": 0.9090909090909091
+      }
+    },
+    "between_igi_and_gal2": {
+      "4(disz)": {
+        "count": 7,
+        "total": 12,
+        "frequency": 0.5833333333333334
+      },
+      "6(disz)": {
+        "count": 5,
+        "total": 12,
+        "frequency": 0.4166666666666667
+      }
+    },
+    "between_da_and_ga": {
+      "da": {
+        "count": 7,
+        "total": 9,
+        "frequency": 0.7777777777777778
+      }
+    },
+    "between_ur_and_zi": {
+      "{d}dumu": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "between_{d}dumu_and_da": {
+      "zi": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "between_ba_and_gar": {
+      "a": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_si_and_ru": {
+      "mu": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_mu_and_um{ki}": {
+      "ru": {
+        "count": 13,
+        "total": 13,
+        "frequency": 1.0
+      }
+    },
+    "between_a_and_ga": {
+      "sza3": {
+        "count": 5,
+        "total": 9,
+        "frequency": 0.5555555555555556
+      },
+      "da": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "between_kal_and_ta": {
+      "la": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_lugal_and_mah": {
+      "e2": {
+        "count": 5,
+        "total": 9,
+        "frequency": 0.5555555555555556
+      },
+      "gu4": {
+        "count": 3,
+        "total": 9,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "between_e2_and_e": {
+      "mah": {
+        "count": 6,
+        "total": 15,
+        "frequency": 0.4
+      },
+      "u6": {
+        "count": 3,
+        "total": 15,
+        "frequency": 0.2
+      },
+      "gal": {
+        "count": 5,
+        "total": 15,
+        "frequency": 0.3333333333333333
+      }
+    },
+    "between_ezem_and_gi": {
+      "{d}szul": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_lu5_and_ta": {
+      "lu5": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_szesz_and_la": {
+      "kal": {
+        "count": 13,
+        "total": 13,
+        "frequency": 1.0
+      }
+    },
+    "between_na_and_ta": {
+      "lu5": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      },
+      "sa6": {
+        "count": 4,
+        "total": 10,
+        "frequency": 0.4
+      }
+    },
+    "between_igi_and_sa6": {
+      "sa6": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_sa6_and_ta": {
+      "sa6": {
+        "count": 6,
+        "total": 22,
+        "frequency": 0.2727272727272727
+      },
+      "ga": {
+        "count": 16,
+        "total": 22,
+        "frequency": 0.7272727272727273
+      }
+    },
+    "between_a_and_kal": {
+      "a": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_hu_and_ti{ki}": {
+      "ur5": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_ur_and_ba": {
+      "ab": {
+        "count": 8,
+        "total": 10,
+        "frequency": 0.8
+      }
+    },
+    "between_an_and_da": {
+      "ub": {
+        "count": 14,
+        "total": 16,
+        "frequency": 0.875
+      }
+    },
+    "between_na_and_a": {
+      "ru2": {
+        "count": 10,
+        "total": 12,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "between_a2_and_ti": {
+      "ki": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "between_inim_and_na": {
+      "gi": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_u5_and_gu7": {
+      "bi2": {
+        "count": 5,
+        "total": 7,
+        "frequency": 0.7142857142857143
+      }
+    },
+    "between_ur_and_lil2": {
+      "{d}en": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_ga": {
+      "du10": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_sza_and_szu2": {
+      "asz": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_ur_and_si4": {
+      "{d}li9": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "between_a_and_lu5": {
+      "lu5": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_lugal_and_ga": {
+      "sa6": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "between_ki_and_bi": {
+      "la2": {
+        "count": 19,
+        "total": 19,
+        "frequency": 1.0
+      }
+    },
+    "between_a_and_ta": {
+      "gu": {
+        "count": 4,
+        "total": 11,
+        "frequency": 0.36363636363636365
+      }
+    },
+    "between_bi2_and_ga": {
+      "du11": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "between_ba_and_du8": {
+      "ab": {
+        "count": 11,
+        "total": 11,
+        "frequency": 1.0
+      }
+    },
+    "between_kin_and_a": {
+      "gi4": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_si_and_num2{ki}": {
+      "ma": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_szu_and_ma": {
+      "ma": {
+        "count": 4,
+        "total": 6,
+        "frequency": 0.6666666666666666
+      }
+    },
+    "between_e2_and_6(disz)": {
+      "iti": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_uri5{ki}_and_ke4": {
+      "ma": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_ru2_and_mah": {
+      "a": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_mu_and_du3": {
+      "ne": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_lugal_and_zu": {
+      "ku3": {
+        "count": 7,
+        "total": 8,
+        "frequency": 0.875
+      }
+    },
+    "between_nu_and_gu4": {
+      "banda3": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_a_and_ni": {
+      "hu": {
+        "count": 4,
+        "total": 8,
+        "frequency": 0.5
+      }
+    },
+    "between_ab_and_sa6": {
+      "ba": {
+        "count": 18,
+        "total": 18,
+        "frequency": 1.0
+      }
+    },
+    "between_ba_and_ga": {
+      "sa6": {
+        "count": 19,
+        "total": 21,
+        "frequency": 0.9047619047619048
+      }
+    },
+    "between_{d}na_and_a": {
+      "na": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_gu4_and_us2": {
+      "e": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_e_and_sa": {
+      "us2": {
+        "count": 14,
+        "total": 14,
+        "frequency": 1.0
+      }
+    },
+    "between_sag11_and_sze3": {
+      "ku5": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_a2_and_ba": {
+      "ge6": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_ge6_and_a": {
+      "ba": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_ezem_and_na": {
+      "an": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_nig2_and_e": {
+      "lagar": {
+        "count": 7,
+        "total": 8,
+        "frequency": 0.875
+      }
+    },
+    "between_i7_and_e3": {
+      "pa": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_za_and_sza": {
+      "ab": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "between_ab_and_li{ki}": {
+      "sza": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "between_da_and_a": {
+      "da": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "between_giri3_and_ga": {
+      "se3": {
+        "count": 10,
+        "total": 10,
+        "frequency": 1.0
+      }
+    },
+    "between_e2_and_ta": {
+      "gal": {
+        "count": 3,
+        "total": 7,
+        "frequency": 0.42857142857142855
+      }
+    },
+    "between_gi_and_mu": {
+      "iri": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "between_sza3_and_ta": {
+      "bi": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}nin_and_ra": {
+      "lil2": {
+        "count": 5,
+        "total": 15,
+        "frequency": 0.3333333333333333
+      },
+      "ur4": {
+        "count": 8,
+        "total": 15,
+        "frequency": 0.5333333333333333
+      }
+    },
+    "between_lu2_and_sag": {
+      "iri": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_ur_and_mu": {
+      "{d}da": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "between_na_and_sa6": {
+      "ba": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_na": {
+      "gi": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_asz_and_um{ki}": {
+      "ru": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_lu2_and_i3": {
+      "sa6": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_sa6_and_zu": {
+      "i3": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_ba_and_sa6": {
+      "an": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_ur_and_pa": {
+      "{d}szul": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}szul_and_e3": {
+      "pa": {
+        "count": 9,
+        "total": 9,
+        "frequency": 1.0
+      }
+    },
+    "between_hu_and_nu": {
+      "uh2": {
+        "count": 5,
+        "total": 6,
+        "frequency": 0.8333333333333334
+      }
+    },
+    "between_uh2_and_ri{ki}": {
+      "nu": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_ses_and_gu7": {
+      "da": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_masz_and_gu7": {
+      "da3": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_in_and_e3": {
+      "ta": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_ta_and_a": {
+      "e3": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_szu_and_sza": {
+      "esz5": {
+        "count": 3,
+        "total": 5,
+        "frequency": 0.6
+      }
+    },
+    "between_lu2_and_gal": {
+      "eb": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_sag_and_gur11": {
+      "nig2": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_nig2_and_ra": {
+      "gur11": {
+        "count": 5,
+        "total": 10,
+        "frequency": 0.5
+      },
+      "ar3": {
+        "count": 5,
+        "total": 10,
+        "frequency": 0.5
+      }
+    },
+    "between_si_and_tum": {
+      "i3": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_ma2_and_re": {
+      "gur8": {
+        "count": 7,
+        "total": 7,
+        "frequency": 1.0
+      }
+    },
+    "between_ki_and_gi": {
+      "en": {
+        "count": 6,
+        "total": 6,
+        "frequency": 1.0
+      }
+    },
+    "between_{d}szul_and_iri": {
+      "gi": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_nin_and_zi": {
+      "geszkim": {
+        "count": 4,
+        "total": 5,
+        "frequency": 0.8
+      }
+    },
+    "between_e_and_an": {
+      "ba": {
+        "count": 5,
+        "total": 5,
+        "frequency": 1.0
+      }
+    },
+    "between_zi_and_am3": {
+      "ga": {
+        "count": 8,
+        "total": 8,
+        "frequency": 1.0
+      }
+    }
+  },
+  "morpheme_bigrams": {
+    "ku3___babbar": {
+      "count": 20
+    },
+    "min___esz3": {
+      "count": 8
+    },
+    "lugal___he2": {
+      "count": 7
+    },
+    "he2___gal2": {
+      "count": 10
+    },
+    "a___tu": {
+      "count": 7
+    },
+    "ab___ba": {
+      "count": 43
+    },
+    "ba___gi": {
+      "count": 8
+    },
+    "gi___na": {
+      "count": 23
+    },
+    "lugal___nesag": {
+      "count": 5
+    },
+    "nesag___e": {
+      "count": 6
+    },
+    "{d}i___bi2": {
+      "count": 7
+    },
+    "bi2___{d}suen": {
+      "count": 8
+    },
+    "dub___sar": {
+      "count": 61
+    },
+    "gen___na": {
+      "count": 17
+    },
+    "na___a": {
+      "count": 8
+    },
+    "sze___kar": {
+      "count": 5
+    },
+    "kar___ra": {
+      "count": 5
+    },
+    "ra___gal2": {
+      "count": 5
+    },
+    "gal2___la": {
+      "count": 7
+    },
+    "szum2___ma": {
+      "count": 5
+    },
+    "lu2___dingir": {
+      "count": 19
+    },
+    "dingir___ra": {
+      "count": 26
+    },
+    "ra___ta": {
+      "count": 8
+    },
+    "ma___ke4": {
+      "count": 15
+    },
+    "sze___sag11": {
+      "count": 23
+    },
+    "sag11___ku5": {
+      "count": 23
+    },
+    "ba___hun": {
+      "count": 41
+    },
+    "{d}szul___gi": {
+      "count": 43
+    },
+    "be___li2": {
+      "count": 6
+    },
+    "gu3___de2": {
+      "count": 11
+    },
+    "de2___a": {
+      "count": 13
+    },
+    "mar___tu": {
+      "count": 14
+    },
+    "x___x": {
+      "count": 16
+    },
+    "i3___li2": {
+      "count": 23
+    },
+    "ur___{gesz}gigir": {
+      "count": 8
+    },
+    "ra2___gaba": {
+      "count": 6
+    },
+    "7(disz)___kam": {
+      "count": 7
+    },
+    "ur___{d}ba": {
+      "count": 8
+    },
+    "{d}ba___ba6": {
+      "count": 18
+    },
+    "gu___za": {
+      "count": 8
+    },
+    "i3___dab5": {
+      "count": 42
+    },
+    "x___...": {
+      "count": 7
+    },
+    "{d}da___gan": {
+      "count": 5
+    },
+    "ba___du3": {
+      "count": 32
+    },
+    "bar___gal2": {
+      "count": 19
+    },
+    "bar___su": {
+      "count": 19
+    },
+    "su___ga": {
+      "count": 21
+    },
+    "i3___nun": {
+      "count": 7
+    },
+    "ma___na": {
+      "count": 47
+    },
+    "nig2___ka9": {
+      "count": 19
+    },
+    "ur___e11": {
+      "count": 12
+    },
+    "e11___e": {
+      "count": 12
+    },
+    "ur___{d}szara2": {
+      "count": 8
+    },
+    "sza___asz": {
+      "count": 16
+    },
+    "asz___ru{ki}": {
+      "count": 8
+    },
+    "a___ra2": {
+      "count": 37
+    },
+    "2(disz)___kam": {
+      "count": 35
+    },
+    "ba___hul": {
+      "count": 86
+    },
+    "ba___usz2": {
+      "count": 24
+    },
+    "an___na": {
+      "count": 24
+    },
+    "hi___li": {
+      "count": 6
+    },
+    "bi___ta": {
+      "count": 10
+    },
+    "lu2___kal": {
+      "count": 15
+    },
+    "kal___la": {
+      "count": 69
+    },
+    "pa4___u2": {
+      "count": 6
+    },
+    "u2___e": {
+      "count": 9
+    },
+    "en___unu6": {
+      "count": 11
+    },
+    "unu6___gal": {
+      "count": 11
+    },
+    "6(disz)___kam": {
+      "count": 7
+    },
+    "ur___nigar{gar}": {
+      "count": 17
+    },
+    "ba___ti": {
+      "count": 46
+    },
+    "{d}nin___a": {
+      "count": 9
+    },
+    "a___zu": {
+      "count": 10
+    },
+    "{d}amar___{d}suen": {
+      "count": 17
+    },
+    "mu___kux(DU)": {
+      "count": 22
+    },
+    "ezem___me": {
+      "count": 8
+    },
+    "me___ki": {
+      "count": 8
+    },
+    "ki___gal2": {
+      "count": 11
+    },
+    "us2___sa": {
+      "count": 63
+    },
+    "an___sza": {
+      "count": 11
+    },
+    "sza___an{ki}": {
+      "count": 11
+    },
+    "ba___an": {
+      "count": 12
+    },
+    "gir2___su{ki}": {
+      "count": 9
+    },
+    "ba___ab": {
+      "count": 13
+    },
+    "nu___banda3": {
+      "count": 21
+    },
+    "kar___zi": {
+      "count": 10
+    },
+    "zi___da": {
+      "count": 30
+    },
+    "du8___a": {
+      "count": 5
+    },
+    "si___ga": {
+      "count": 8
+    },
+    "du11___ga": {
+      "count": 12
+    },
+    "{d}en___lil2": {
+      "count": 46
+    },
+    "lil2___la2": {
+      "count": 30
+    },
+    "a___sza3": {
+      "count": 43
+    },
+    "{d}nin___gesz": {
+      "count": 5
+    },
+    "gesz___zi": {
+      "count": 5
+    },
+    "lu2___{d}nin": {
+      "count": 12
+    },
+    "{d}nin___szubur": {
+      "count": 8
+    },
+    "bala___a": {
+      "count": 16
+    },
+    "1(disz)___sze3": {
+      "count": 14
+    },
+    "dub___la2": {
+      "count": 5
+    },
+    "iti___da": {
+      "count": 6
+    },
+    "ni___ta": {
+      "count": 11
+    },
+    "a___kal": {
+      "count": 27
+    },
+    "{d}dumu___zi": {
+      "count": 21
+    },
+    "ha___ar": {
+      "count": 8
+    },
+    "ar___szi{ki}": {
+      "count": 7
+    },
+    "ki___masz{ki}": {
+      "count": 20
+    },
+    "du10___ga": {
+      "count": 15
+    },
+    "zi3___gu": {
+      "count": 6
+    },
+    "e2___a": {
+      "count": 5
+    },
+    "da___ta": {
+      "count": 6
+    },
+    "inim___{d}szara2": {
+      "count": 7
+    },
+    "sag___ku5": {
+      "count": 5
+    },
+    "{d}li9___si4": {
+      "count": 21
+    },
+    "sa6___sa6": {
+      "count": 12
+    },
+    "a___du": {
+      "count": 5
+    },
+    "ARAD2___mu": {
+      "count": 9
+    },
+    "kur___ra": {
+      "count": 5
+    },
+    "lugal___e": {
+      "count": 21
+    },
+    "ma___da": {
+      "count": 24
+    },
+    "mu___du3": {
+      "count": 8
+    },
+    "pisan___dub": {
+      "count": 34
+    },
+    "dub___ba": {
+      "count": 39
+    },
+    "ka9___ak": {
+      "count": 15
+    },
+    "ur___bi2": {
+      "count": 10
+    },
+    "bi2___lum{ki}": {
+      "count": 10
+    },
+    "i3___gal2": {
+      "count": 28
+    },
+    "e2___tum": {
+      "count": 16
+    },
+    "igi___4(disz)": {
+      "count": 7
+    },
+    "4(disz)___gal2": {
+      "count": 7
+    },
+    "da___da": {
+      "count": 23
+    },
+    "da___ga": {
+      "count": 13
+    },
+    "ga___ta": {
+      "count": 21
+    },
+    "ur___{d}dumu": {
+      "count": 8
+    },
+    "la2___ia3": {
+      "count": 17
+    },
+    "ba___a": {
+      "count": 21
+    },
+    "a___gar": {
+      "count": 5
+    },
+    "si___mu": {
+      "count": 15
+    },
+    "mu___ru": {
+      "count": 14
+    },
+    "ru___um{ki}": {
+      "count": 23
+    },
+    "lu___lu": {
+      "count": 6
+    },
+    "sza3___ga": {
+      "count": 7
+    },
+    "la___ta": {
+      "count": 10
+    },
+    "lugal___e2": {
+      "count": 5
+    },
+    "e2___mah": {
+      "count": 10
+    },
+    "mah___e": {
+      "count": 6
+    },
+    "ezem___{d}szul": {
+      "count": 14
+    },
+    "ba___ta": {
+      "count": 5
+    },
+    "ki___du10": {
+      "count": 6
+    },
+    "szesz___kal": {
+      "count": 13
+    },
+    "sa6___ta": {
+      "count": 10
+    },
+    "na___ba": {
+      "count": 10
+    },
+    "a___a": {
+      "count": 18
+    },
+    "da___mu": {
+      "count": 5
+    },
+    "...___ta": {
+      "count": 5
+    },
+    "hu___ur5": {
+      "count": 5
+    },
+    "i3___gesz": {
+      "count": 13
+    },
+    "er3___ra": {
+      "count": 9
+    },
+    "lu2___sa6": {
+      "count": 8
+    },
+    "ur___ab": {
+      "count": 8
+    },
+    "{d}ha___ia3": {
+      "count": 5
+    },
+    "ur___{d}nansze": {
+      "count": 6
+    },
+    "gid2___da": {
+      "count": 9
+    },
+    "ba___zi": {
+      "count": 13
+    },
+    "masz2___gal": {
+      "count": 28
+    },
+    "za___ab": {
+      "count": 11
+    },
+    "na___lu5": {
+      "count": 6
+    },
+    "lu5___ta": {
+      "count": 8
+    },
+    "na___sa6": {
+      "count": 8
+    },
+    "3(disz)___kam": {
+      "count": 21
+    },
+    "a2___ki": {
+      "count": 11
+    },
+    "ki___ti": {
+      "count": 11
+    },
+    "inim___gi": {
+      "count": 5
+    },
+    "u5___bi2": {
+      "count": 5
+    },
+    "bi2___gu7": {
+      "count": 5
+    },
+    "sze___ba": {
+      "count": 22
+    },
+    "1(disz)___kam": {
+      "count": 22
+    },
+    "ur___{d}en": {
+      "count": 6
+    },
+    "lu2___{d}szara2": {
+      "count": 13
+    },
+    "da___a": {
+      "count": 10
+    },
+    "lu2___du10": {
+      "count": 7
+    },
+    "a___ba": {
+      "count": 8
+    },
+    "ur___x": {
+      "count": 5
+    },
+    "gub___ba": {
+      "count": 5
+    },
+    "a___gu": {
+      "count": 7
+    },
+    "lugal___ezem": {
+      "count": 9
+    },
+    "an___dul3": {
+      "count": 5
+    },
+    "asz___szu2": {
+      "count": 5
+    },
+    "ensi2___ka": {
+      "count": 14
+    },
+    "mu___hul": {
+      "count": 17
+    },
+    "kal___ga": {
+      "count": 21
+    },
+    "uri5{ki}___ma": {
+      "count": 44
+    },
+    "an___ub": {
+      "count": 14
+    },
+    "ub___da": {
+      "count": 14
+    },
+    "limmu2___ba": {
+      "count": 14
+    },
+    "ur___{d}li9": {
+      "count": 10
+    },
+    "ARAD2___zu": {
+      "count": 20
+    },
+    "a___lu5": {
+      "count": 6
+    },
+    "lu5___lu5": {
+      "count": 7
+    },
+    "kab2___ku5": {
+      "count": 12
+    },
+    "lugal___ku3": {
+      "count": 9
+    },
+    "ku3___ga": {
+      "count": 5
+    },
+    "ga___ni": {
+      "count": 8
+    },
+    "ki___la2": {
+      "count": 20
+    },
+    "la2___bi": {
+      "count": 19
+    },
+    "bi2___du11": {
+      "count": 5
+    },
+    "{d}en___ki": {
+      "count": 14
+    },
+    "ab___du8": {
+      "count": 11
+    },
+    "kin___gi4": {
+      "count": 8
+    },
+    "gi4___a": {
+      "count": 9
+    },
+    "si___ma": {
+      "count": 8
+    },
+    "ma___num2{ki}": {
+      "count": 8
+    },
+    "ad___da": {
+      "count": 12
+    },
+    "du___du": {
+      "count": 7
+    },
+    "gaba___ta": {
+      "count": 8
+    },
+    "5(disz)___kam": {
+      "count": 10
+    },
+    "sza3___gal": {
+      "count": 10
+    },
+    "8(disz)___kam": {
+      "count": 9
+    },
+    "{d}szu___{d}suen": {
+      "count": 41
+    },
+    "nu___ur2": {
+      "count": 5
+    },
+    "ba___ni": {
+      "count": 6
+    },
+    "szu___ma": {
+      "count": 5
+    },
+    "ma___ma": {
+      "count": 7
+    },
+    "e2___iti": {
+      "count": 6
+    },
+    "iti___6(disz)": {
+      "count": 6
+    },
+    "na___ru2": {
+      "count": 10
+    },
+    "ru2___a": {
+      "count": 11
+    },
+    "a___mah": {
+      "count": 8
+    },
+    "lil2___ra": {
+      "count": 6
+    },
+    "4(disz)___kam": {
+      "count": 17
+    },
+    "hu___uh2": {
+      "count": 6
+    },
+    "banda3___gu4": {
+      "count": 7
+    },
+    "a___mu": {
+      "count": 8
+    },
+    "ur___{d}utu": {
+      "count": 5
+    },
+    "a___hu": {
+      "count": 9
+    },
+    "ba___sa6": {
+      "count": 27
+    },
+    "sa6___ga": {
+      "count": 28
+    },
+    "na___ra": {
+      "count": 5
+    },
+    "ra___am": {
+      "count": 6
+    },
+    "zi___ga": {
+      "count": 50
+    },
+    "gu4___e": {
+      "count": 14
+    },
+    "e___us2": {
+      "count": 14
+    },
+    "u4___sakar": {
+      "count": 6
+    },
+    "sa2___du11": {
+      "count": 11
+    },
+    "e2___gal": {
+      "count": 18
+    },
+    "gal___la": {
+      "count": 5
+    },
+    "...___x": {
+      "count": 5
+    },
+    "hi___a": {
+      "count": 9
+    },
+    "ku5___sze3": {
+      "count": 6
+    },
+    "a2___ge6": {
+      "count": 5
+    },
+    "ge6___ba": {
+      "count": 7
+    },
+    "e2___duru5": {
+      "count": 5
+    },
+    "{munus}asz2___gar3": {
+      "count": 8
+    },
+    "a___bu": {
+      "count": 5
+    },
+    "ezem___an": {
+      "count": 7
+    },
+    "du3___a": {
+      "count": 7
+    },
+    "lugal___nig2": {
+      "count": 5
+    },
+    "nig2___lagar": {
+      "count": 7
+    },
+    "lagar___e": {
+      "count": 7
+    },
+    "i7___pa": {
+      "count": 5
+    },
+    "pa___e3": {
+      "count": 16
+    },
+    "usz___bar": {
+      "count": 6
+    },
+    "a___da": {
+      "count": 7
+    },
+    "lu2___{d}nanna": {
+      "count": 5
+    },
+    "ku3___zu": {
+      "count": 9
+    },
+    "ab___sza": {
+      "count": 10
+    },
+    "sza___li{ki}": {
+      "count": 10
+    },
+    "giri3___se3": {
+      "count": 10
+    },
+    "se3___ga": {
+      "count": 12
+    },
+    "a___lum": {
+      "count": 28
+    },
+    "a___ta": {
+      "count": 9
+    },
+    "gu___la": {
+      "count": 11
+    },
+    "ur___{d}lamma": {
+      "count": 12
+    },
+    "ur___e2": {
+      "count": 9
+    },
+    "na___ta": {
+      "count": 6
+    },
+    "nun___na": {
+      "count": 5
+    },
+    "sza3___bi": {
+      "count": 10
+    },
+    "me___a": {
+      "count": 5
+    },
+    "{d}szara2___kam": {
+      "count": 6
+    },
+    "szu___gid2": {
+      "count": 5
+    },
+    "ur___mes": {
+      "count": 9
+    },
+    "{d}nin___lil2": {
+      "count": 9
+    },
+    "mu___ne": {
+      "count": 5
+    },
+    "igi___6(disz)": {
+      "count": 5
+    },
+    "6(disz)___gal2": {
+      "count": 6
+    },
+    "a___ni": {
+      "count": 7
+    },
+    "i3___pa3": {
+      "count": 5
+    },
+    "ba___ba": {
+      "count": 6
+    },
+    "inim___ma": {
+      "count": 5
+    },
+    "ru___um": {
+      "count": 6
+    },
+    "dam___gar3": {
+      "count": 9
+    },
+    "masz___da3": {
+      "count": 12
+    },
+    "i3___dub": {
+      "count": 5
+    },
+    "nu___tuku": {
+      "count": 5
+    },
+    "al___la": {
+      "count": 5
+    },
+    "ur5___ra": {
+      "count": 5
+    },
+    "lu2___gi": {
+      "count": 7
+    },
+    "asz___ru": {
+      "count": 5
+    },
+    "nig2___dab5": {
+      "count": 14
+    },
+    "sa6___i3": {
+      "count": 6
+    },
+    "i3___zu": {
+      "count": 6
+    },
+    "gu2___gal": {
+      "count": 5
+    },
+    "e3___a": {
+      "count": 12
+    },
+    "sze___bi": {
+      "count": 13
+    },
+    "{d}ma___mi": {
+      "count": 5
+    },
+    "an___sa6": {
+      "count": 8
+    },
+    "ur___{d}szul": {
+      "count": 8
+    },
+    "{d}szul___pa": {
+      "count": 9
+    },
+    "ur___{d}suen": {
+      "count": 6
+    },
+    "{d}nin___ur4": {
+      "count": 8
+    },
+    "ur4___ra": {
+      "count": 8
+    },
+    "kiszib3___bi": {
+      "count": 6
+    },
+    "a___ra": {
+      "count": 5
+    },
+    "uh2___nu": {
+      "count": 5
+    },
+    "nu___ri{ki}": {
+      "count": 6
+    },
+    "ba___dim2": {
+      "count": 8
+    },
+    "ses___da": {
+      "count": 5
+    },
+    "da___gu7": {
+      "count": 5
+    },
+    "da3___gu7": {
+      "count": 6
+    },
+    "in___ta": {
+      "count": 5
+    },
+    "ta___e3": {
+      "count": 6
+    },
+    "a2___bi": {
+      "count": 20
+    },
+    "ke4___ne": {
+      "count": 6
+    },
+    "a___sze3": {
+      "count": 5
+    },
+    "hun___ga2": {
+      "count": 8
+    },
+    "eb___gal": {
+      "count": 5
+    },
+    "sag___nig2": {
+      "count": 5
+    },
+    "nig2___gur11": {
+      "count": 10
+    },
+    "gur11___ra": {
+      "count": 5
+    },
+    "he2___dab5": {
+      "count": 5
+    },
+    "nig2___ar3": {
+      "count": 5
+    },
+    "ar3___ra": {
+      "count": 5
+    },
+    "gesz___i3": {
+      "count": 10
+    },
+    "si___i3": {
+      "count": 5
+    },
+    "i3___tum": {
+      "count": 5
+    },
+    "ku3___bi": {
+      "count": 47
+    },
+    "2(disz)___am3": {
+      "count": 5
+    },
+    "ma2___gur8": {
+      "count": 10
+    },
+    "gaba___ri": {
+      "count": 5
+    },
+    "id___gur2": {
+      "count": 6
+    },
+    "si___e3": {
+      "count": 8
+    },
+    "gur8___re": {
+      "count": 7
+    },
+    "ki___en": {
+      "count": 6
+    },
+    "en___gi": {
+      "count": 6
+    },
+    "ki___uri": {
+      "count": 6
+    },
+    "gi___iri": {
+      "count": 5
+    },
+    "iri___mu": {
+      "count": 5
+    },
+    "nam___mah": {
+      "count": 5
+    },
+    "gal___e": {
+      "count": 5
+    },
+    "e___ba": {
+      "count": 5
+    },
+    "ga___am3": {
+      "count": 9
+    },
+    "im___babbar2": {
+      "count": 8
+    },
+    "ur___{d}namma": {
+      "count": 6
+    },
+    "dumu___ni": {
+      "count": 5
+    }
+  }
+}

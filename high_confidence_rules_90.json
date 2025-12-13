@@ -1,0 +1,236 @@
+{
+  "deterministic_contexts": {
+    "MN.L1___N": {
+      "word": "mu",
+      "count": 36,
+      "total": 37,
+      "accuracy": 0.972972972972973
+    },
+    "NU.GEN.COP-3-SG___MN.L1": {
+      "word": "iti",
+      "count": 19,
+      "total": 19,
+      "accuracy": 1.0
+    },
+    "PN.GEN.ABL___PN.GEN": {
+      "word": "kiszib3",
+      "count": 18,
+      "total": 19,
+      "accuracy": 0.9473684210526315
+    },
+    "PN.GEN___MN.L1": {
+      "word": "iti",
+      "count": 22,
+      "total": 22,
+      "accuracy": 1.0
+    },
+    "NU.GEN.COP-3-SG___PN.GEN.ABL": {
+      "word": "ki",
+      "count": 21,
+      "total": 21,
+      "accuracy": 1.0
+    },
+    "PN.ERG___MID.3-SG-H-A.V.3-SG-P": {
+      "word": "szu",
+      "count": 38,
+      "total": 38,
+      "accuracy": 1.0
+    },
+    "MID.3-SG-H-A.V.3-SG-P___MN.L1": {
+      "word": "iti",
+      "count": 23,
+      "total": 23,
+      "accuracy": 1.0
+    },
+    "FIN.3-SG-H-A.V.3-SG-P___MN.L1": {
+      "word": "iti",
+      "count": 28,
+      "total": 28,
+      "accuracy": 1.0
+    },
+    "MN.L1___NF.V.PT": {
+      "word": "mu",
+      "count": 28,
+      "total": 28,
+      "accuracy": 1.0
+    },
+    "N.GEN___MN.L1": {
+      "word": "iti",
+      "count": 16,
+      "total": 16,
+      "accuracy": 1.0
+    },
+    "MN.L1___SN": {
+      "word": "mu",
+      "count": 11,
+      "total": 11,
+      "accuracy": 1.0
+    },
+    "N.ABS___PN.GEN.ABL": {
+      "word": "ki",
+      "count": 14,
+      "total": 14,
+      "accuracy": 1.0
+    },
+    "MN.ABL___MN.TERM": {
+      "word": "iti",
+      "count": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "MN.L1___RN": {
+      "word": "mu",
+      "count": 21,
+      "total": 21,
+      "accuracy": 1.0
+    },
+    "N___PN.GEN.ABL": {
+      "word": "ki",
+      "count": 59,
+      "total": 60,
+      "accuracy": 0.9833333333333333
+    },
+    "NF.V.PT___MN.L1": {
+      "word": "iti",
+      "count": 10,
+      "total": 10,
+      "accuracy": 1.0
+    },
+    "NF.V.PT___SN.GEN": {
+      "word": "lugal",
+      "count": 16,
+      "total": 16,
+      "accuracy": 1.0
+    },
+    "N___NU.3-SG-NH-POSS.GEN.ABS": {
+      "word": "an-ub-da",
+      "count": 12,
+      "total": 12,
+      "accuracy": 1.0
+    },
+    "PN___SN.GEN.ABS": {
+      "word": "ensi2",
+      "count": 12,
+      "total": 12,
+      "accuracy": 1.0
+    },
+    "MN.L1___SN.ABS": {
+      "word": "mu",
+      "count": 16,
+      "total": 16,
+      "accuracy": 1.0
+    },
+    "RN___SN.GEN.ERG": {
+      "word": "lugal",
+      "count": 14,
+      "total": 14,
+      "accuracy": 1.0
+    },
+    "PN___PN.GEN.DAT-H": {
+      "word": "dumu",
+      "count": 25,
+      "total": 26,
+      "accuracy": 0.9615384615384616
+    }
+  },
+  "high_confidence_collocations": {
+    "sze-sag11-ku5___mu": {
+      "count": 12,
+      "total": 12,
+      "frequency": 1.0
+    },
+    "en-unu6-gal___{d}inanna": {
+      "count": 9,
+      "total": 10,
+      "frequency": 0.9
+    },
+    "an-sza-an{ki}___ba-hul": {
+      "count": 10,
+      "total": 10,
+      "frequency": 1.0
+    },
+    "ezem-{d}szul-gi___mu": {
+      "count": 10,
+      "total": 10,
+      "frequency": 1.0
+    },
+    "a2-ki-ti___mu": {
+      "count": 11,
+      "total": 11,
+      "frequency": 1.0
+    },
+    "1/4(iku)___GAN2": {
+      "count": 14,
+      "total": 14,
+      "frequency": 1.0
+    },
+    "nita___kal-ga": {
+      "count": 12,
+      "total": 12,
+      "frequency": 1.0
+    },
+    "kal-ga___lugal": {
+      "count": 20,
+      "total": 21,
+      "frequency": 0.9523809523809523
+    },
+    "an-ub-da___limmu2-ba": {
+      "count": 14,
+      "total": 14,
+      "frequency": 1.0
+    },
+    "sa___szum2": {
+      "count": 26,
+      "total": 26,
+      "frequency": 1.0
+    },
+    "za-ab-sza-li{ki}___mu-hul": {
+      "count": 9,
+      "total": 10,
+      "frequency": 0.9
+    },
+    "a2-bi___u4": {
+      "count": 18,
+      "total": 20,
+      "frequency": 0.9
+    }
+  },
+  "specific_numeral_patterns": {
+    "NU__ninda": {
+      "word": "sila3",
+      "count": 76,
+      "total": 82,
+      "accuracy": 0.926829268292683
+    },
+    "NU__kasz": {
+      "word": "sila3",
+      "count": 89,
+      "total": 98,
+      "accuracy": 0.9081632653061225
+    },
+    "NU__i3": {
+      "word": "gin2",
+      "count": 70,
+      "total": 75,
+      "accuracy": 0.9333333333333333
+    },
+    "NU__dida": {
+      "word": "dug",
+      "count": 13,
+      "total": 13,
+      "accuracy": 1.0
+    },
+    "NU__naga": {
+      "word": "gin2",
+      "count": 52,
+      "total": 54,
+      "accuracy": 0.9629629629629629
+    },
+    "NU__ab-ba-sa6-ga-ta": {
+      "word": "ki",
+      "count": 11,
+      "total": 11,
+      "accuracy": 1.0
+    }
+  }
+}
