@@ -1,0 +1,6 @@
+{
+  "num_tablets": 5050,
+  "total_tokens": 71181,
+  "vocab_size": 500,
+  "avg_tokens_per_tablet": 14.095247524752475
+}
